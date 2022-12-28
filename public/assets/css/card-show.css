@@ -1,0 +1,25 @@
+.card-sistem {
+    width: 700px;
+   
+}
+
+.theme-black .nav-tabs .nav-item .nav-lik {
+    color: #fff !important;
+}
+
+.nav-tabs .nav-item .nav-lik {
+    color: #000;
+}
+
+
+.card-wrap1 {
+    display: flex;
+}
+
+.wrap-panel {
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+
+

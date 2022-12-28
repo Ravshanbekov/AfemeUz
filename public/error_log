@@ -1,0 +1,773 @@
+[03-Jun-2022 11:09:17 UTC] PHP Fatal error:  Namespace declaration statement has to be the very first statement or after any declare call in the script in /home/aliuz/public_html/app/Http/Controllers/Api/ClientController.php on line 3
+[11-Jun-2022 09:08:53 UTC] PHP Fatal error:  App\Http\Controllers\Api\GetController cannot use App\Http\Resources\UserResource - it is not a trait in /home/aliuz/public_html/app/Http/Controllers/Api/GetController.php on line 17
+[11-Jun-2022 09:08:53 UTC] PHP Fatal error:  App\Http\Controllers\Api\GetController cannot use App\Http\Resources\UserResource - it is not a trait in /home/aliuz/public_html/app/Http/Controllers/Api/GetController.php on line 17
+[11-Jun-2022 09:08:53 UTC] PHP Fatal error:  App\Http\Controllers\Api\GetController cannot use App\Http\Resources\UserResource - it is not a trait in /home/aliuz/public_html/app/Http/Controllers/Api/GetController.php on line 17
+[11-Jun-2022 09:09:04 UTC] PHP Fatal error:  App\Http\Controllers\Api\GetController cannot use App\Http\Resources\UserResource - it is not a trait in /home/aliuz/public_html/app/Http/Controllers/Api/GetController.php on line 17
+[11-Jun-2022 09:09:04 UTC] PHP Fatal error:  App\Http\Controllers\Api\GetController cannot use App\Http\Resources\UserResource - it is not a trait in /home/aliuz/public_html/app/Http/Controllers/Api/GetController.php on line 17
+[11-Jun-2022 09:09:05 UTC] PHP Fatal error:  App\Http\Controllers\Api\GetController cannot use App\Http\Resources\UserResource - it is not a trait in /home/aliuz/public_html/app/Http/Controllers/Api/GetController.php on line 17
+[11-Jun-2022 09:09:38 UTC] PHP Fatal error:  App\Http\Controllers\Api\GetController cannot use App\Http\Resources\UserResource - it is not a trait in /home/aliuz/public_html/app/Http/Controllers/Api/GetController.php on line 17
+[11-Jun-2022 09:09:38 UTC] PHP Fatal error:  App\Http\Controllers\Api\GetController cannot use App\Http\Resources\UserResource - it is not a trait in /home/aliuz/public_html/app/Http/Controllers/Api/GetController.php on line 17
+[11-Jun-2022 09:09:38 UTC] PHP Fatal error:  App\Http\Controllers\Api\GetController cannot use App\Http\Resources\UserResource - it is not a trait in /home/aliuz/public_html/app/Http/Controllers/Api/GetController.php on line 17
+[11-Jun-2022 09:10:50 UTC] PHP Fatal error:  App\Http\Controllers\Api\GetController cannot use App\Http\Resources\UserResource - it is not a trait in /home/aliuz/public_html/app/Http/Controllers/Api/GetController.php on line 17
+[11-Jun-2022 09:10:50 UTC] PHP Fatal error:  App\Http\Controllers\Api\GetController cannot use App\Http\Resources\UserResource - it is not a trait in /home/aliuz/public_html/app/Http/Controllers/Api/GetController.php on line 17
+[11-Jun-2022 09:10:50 UTC] PHP Fatal error:  App\Http\Controllers\Api\GetController cannot use App\Http\Resources\UserResource - it is not a trait in /home/aliuz/public_html/app/Http/Controllers/Api/GetController.php on line 17
+[11-Jun-2022 09:12:24 UTC] PHP Fatal error:  App\Http\Controllers\Api\GetController cannot use App\Http\Resources\UserResource - it is not a trait in /home/aliuz/public_html/app/Http/Controllers/Api/GetController.php on line 17
+[11-Jun-2022 09:12:24 UTC] PHP Fatal error:  App\Http\Controllers\Api\GetController cannot use App\Http\Resources\UserResource - it is not a trait in /home/aliuz/public_html/app/Http/Controllers/Api/GetController.php on line 17
+[11-Jun-2022 09:13:23 UTC] PHP Fatal error:  App\Http\Controllers\Api\GetController cannot use App\Http\Resources\UserResource - it is not a trait in /home/aliuz/public_html/app/Http/Controllers/Api/GetController.php on line 17
+[11-Jun-2022 09:13:46 UTC] PHP Fatal error:  App\Http\Controllers\Api\GetController cannot use App\Http\Resources\UserResource - it is not a trait in /home/aliuz/public_html/app/Http/Controllers/Api/GetController.php on line 17
+[11-Jun-2022 09:14:06 UTC] PHP Fatal error:  App\Http\Controllers\Api\GetController cannot use App\Http\Resources\UserResource - it is not a trait in /home/aliuz/public_html/app/Http/Controllers/Api/GetController.php on line 17
+[11-Jun-2022 09:14:14 UTC] PHP Fatal error:  App\Http\Controllers\Api\GetController cannot use App\Http\Resources\UserResource - it is not a trait in /home/aliuz/public_html/app/Http/Controllers/Api/GetController.php on line 17
+[11-Jun-2022 09:14:14 UTC] PHP Fatal error:  App\Http\Controllers\Api\GetController cannot use App\Http\Resources\UserResource - it is not a trait in /home/aliuz/public_html/app/Http/Controllers/Api/GetController.php on line 17
+[11-Jun-2022 09:14:14 UTC] PHP Fatal error:  App\Http\Controllers\Api\GetController cannot use App\Http\Resources\UserResource - it is not a trait in /home/aliuz/public_html/app/Http/Controllers/Api/GetController.php on line 17
+[11-Jun-2022 09:14:50 UTC] PHP Fatal error:  App\Http\Controllers\Api\GetController cannot use App\Http\Resources\UserResource - it is not a trait in /home/aliuz/public_html/app/Http/Controllers/Api/GetController.php on line 17
+[11-Jun-2022 09:14:50 UTC] PHP Fatal error:  App\Http\Controllers\Api\GetController cannot use App\Http\Resources\UserResource - it is not a trait in /home/aliuz/public_html/app/Http/Controllers/Api/GetController.php on line 17
+[11-Jun-2022 09:14:50 UTC] PHP Fatal error:  App\Http\Controllers\Api\GetController cannot use App\Http\Resources\UserResource - it is not a trait in /home/aliuz/public_html/app/Http/Controllers/Api/GetController.php on line 17
+[11-Jun-2022 09:15:09 UTC] PHP Fatal error:  App\Http\Controllers\Api\GetController cannot use App\Http\Resources\UserResource - it is not a trait in /home/aliuz/public_html/app/Http/Controllers/Api/GetController.php on line 17
+[11-Jun-2022 09:15:21 UTC] PHP Fatal error:  App\Http\Controllers\Api\GetController cannot use App\Http\Resources\UserResource - it is not a trait in /home/aliuz/public_html/app/Http/Controllers/Api/GetController.php on line 17
+[11-Jun-2022 09:15:23 UTC] PHP Fatal error:  App\Http\Controllers\Api\GetController cannot use App\Http\Resources\UserResource - it is not a trait in /home/aliuz/public_html/app/Http/Controllers/Api/GetController.php on line 17
+[11-Jun-2022 09:15:38 UTC] PHP Fatal error:  App\Http\Controllers\Api\GetController cannot use App\Http\Resources\UserResource - it is not a trait in /home/aliuz/public_html/app/Http/Controllers/Api/GetController.php on line 17
+[11-Jun-2022 09:15:54 UTC] PHP Fatal error:  App\Http\Controllers\Api\GetController cannot use App\Http\Resources\UserResource - it is not a trait in /home/aliuz/public_html/app/Http/Controllers/Api/GetController.php on line 17
+[11-Jun-2022 09:15:54 UTC] PHP Fatal error:  App\Http\Controllers\Api\GetController cannot use App\Http\Resources\UserResource - it is not a trait in /home/aliuz/public_html/app/Http/Controllers/Api/GetController.php on line 17
+[11-Jun-2022 09:16:24 UTC] PHP Fatal error:  App\Http\Controllers\Api\GetController cannot use App\Http\Resources\UserResource - it is not a trait in /home/aliuz/public_html/app/Http/Controllers/Api/GetController.php on line 17
+[11-Jun-2022 09:16:34 UTC] PHP Fatal error:  App\Http\Controllers\Api\GetController cannot use App\Http\Resources\UserResource - it is not a trait in /home/aliuz/public_html/app/Http/Controllers/Api/GetController.php on line 17
+[11-Jun-2022 09:16:53 UTC] PHP Fatal error:  App\Http\Controllers\Api\GetController cannot use App\Http\Resources\UserResource - it is not a trait in /home/aliuz/public_html/app/Http/Controllers/Api/GetController.php on line 17
+[11-Jun-2022 09:17:10 UTC] PHP Fatal error:  App\Http\Controllers\Api\GetController cannot use App\Http\Resources\UserResource - it is not a trait in /home/aliuz/public_html/app/Http/Controllers/Api/GetController.php on line 17
+[11-Jun-2022 09:17:44 UTC] PHP Fatal error:  App\Http\Controllers\Api\GetController cannot use App\Http\Resources\UserResource - it is not a trait in /home/aliuz/public_html/app/Http/Controllers/Api/GetController.php on line 17
+[11-Jun-2022 09:18:03 UTC] PHP Fatal error:  App\Http\Controllers\Api\GetController cannot use App\Http\Resources\UserResource - it is not a trait in /home/aliuz/public_html/app/Http/Controllers/Api/GetController.php on line 17
+[11-Jun-2022 09:18:15 UTC] PHP Fatal error:  App\Http\Controllers\Api\GetController cannot use App\Http\Resources\UserResource - it is not a trait in /home/aliuz/public_html/app/Http/Controllers/Api/GetController.php on line 17
+[11-Jun-2022 09:18:15 UTC] PHP Fatal error:  App\Http\Controllers\Api\GetController cannot use App\Http\Resources\UserResource - it is not a trait in /home/aliuz/public_html/app/Http/Controllers/Api/GetController.php on line 17
+[11-Jun-2022 09:18:15 UTC] PHP Fatal error:  App\Http\Controllers\Api\GetController cannot use App\Http\Resources\UserResource - it is not a trait in /home/aliuz/public_html/app/Http/Controllers/Api/GetController.php on line 17
+[11-Jun-2022 09:18:21 UTC] PHP Fatal error:  App\Http\Controllers\Api\GetController cannot use App\Http\Resources\UserResource - it is not a trait in /home/aliuz/public_html/app/Http/Controllers/Api/GetController.php on line 17
+[11-Jun-2022 13:33:27 UTC] PHP Fatal error:  Uncaught ErrorException: include(/home/aliuz/public_html/vendor/composer/../nunomaduro/collision/src/Adapters/Laravel/IgnitionSolutionsRepository.php): Failed to open stream: No such file or directory in /home/aliuz/public_html/vendor/composer/ClassLoader.php:480
+Stack trace:
+#0 /home/aliuz/public_html/vendor/composer/ClassLoader.php(480): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(2, 'include(/home/a...', '/home/aliuz/pub...', 480)
+#1 /home/aliuz/public_html/vendor/composer/ClassLoader.php(480): include()
+#2 /home/aliuz/public_html/vendor/composer/ClassLoader.php(346): Composer\Autoload\includeFile('/home/aliuz/pub...')
+#3 /home/aliuz/public_html/vendor/nunomaduro/collision/src/Adapters/Laravel/CollisionServiceProvider.php(50): Composer\Autoload\ClassLoader->loadClass('NunoMaduro\\Coll...')
+#4 /home/aliuz/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(873): NunoMaduro\Collision\Adapters\Laravel\CollisionServiceProvider->NunoMaduro\Collision\Adapters\Laravel\{closure}(Object(Illuminate\Foundation\Application), Array)
+#5 /home/aliuz/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(758): Illuminate\Container\Container->build(Object(Closure))
+#6 /home/aliuz/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(851): Illuminate\Container\Container->resolve('NunoMaduro\\Coll...', Array, true)
+#7 /home/aliuz/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(694): Illuminate\Foundation\Application->resolve('NunoMaduro\\Coll...', Array)
+#8 /home/aliuz/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(836): Illuminate\Container\Container->make('NunoMaduro\\Coll...', Array)
+#9 /home/aliuz/public_html/vendor/nunomaduro/collision/src/Adapters/Laravel/ExceptionHandler.php(65): Illuminate\Foundation\Application->make('NunoMaduro\\Coll...')
+#10 /home/aliuz/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(182): NunoMaduro\Collision\Adapters\Laravel\ExceptionHandler->renderForConsole(Object(Symfony\Component\Console\Output\ConsoleOutput), Object(ErrorException))
+#11 /home/aliuz/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(168): Illuminate\Foundation\Bootstrap\HandleExceptions->renderForConsole(Object(ErrorException))
+#12 [internal function]: Illuminate\Foundation\Bootstrap\HandleExceptions->handleException(Object(ErrorException))
+#13 {main}
+  thrown in /home/aliuz/public_html/vendor/composer/ClassLoader.php on line 480
+[11-Jun-2022 13:33:27 UTC] PHP Fatal error:  Uncaught ErrorException: include(/home/aliuz/public_html/vendor/composer/../symfony/error-handler/Error/FatalError.php): Failed to open stream: No such file or directory in /home/aliuz/public_html/vendor/composer/ClassLoader.php:480
+Stack trace:
+#0 /home/aliuz/public_html/vendor/composer/ClassLoader.php(480): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(2, 'include(/home/a...', '/home/aliuz/pub...', 480)
+#1 /home/aliuz/public_html/vendor/composer/ClassLoader.php(480): include()
+#2 /home/aliuz/public_html/vendor/composer/ClassLoader.php(346): Composer\Autoload\includeFile('/home/aliuz/pub...')
+#3 /home/aliuz/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(217): Composer\Autoload\ClassLoader->loadClass('Symfony\\Compone...')
+#4 /home/aliuz/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(204): Illuminate\Foundation\Bootstrap\HandleExceptions->fatalErrorFromPhpError(Array, 0)
+#5 [internal function]: Illuminate\Foundation\Bootstrap\HandleExceptions->handleShutdown()
+#6 {main}
+  thrown in /home/aliuz/public_html/vendor/composer/ClassLoader.php on line 480
+[16-Jun-2022 06:51:08 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/aliuz/public_html/vendor/symfony/polyfill-mbstring/Mbstring.php on line 632
+[16-Jun-2022 06:51:38 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/aliuz/public_html/vendor/symfony/polyfill-mbstring/Mbstring.php on line 632
+[16-Jun-2022 06:51:38 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/aliuz/public_html/vendor/symfony/polyfill-mbstring/Mbstring.php on line 632
+[16-Jun-2022 06:51:38 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/aliuz/public_html/vendor/symfony/polyfill-mbstring/Mbstring.php on line 632
+[16-Jun-2022 06:52:18 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/aliuz/public_html/vendor/symfony/polyfill-mbstring/Mbstring.php on line 632
+[17-Jun-2022 05:32:46 UTC] PHP Fatal error:  Can't use method return value in write context in /home/aliuz/public_html/app/Http/Controllers/Admin/CategoryController.php on line 126
+[18-Jun-2022 11:18:05 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/aliuz/public_html/vendor/symfony/polyfill-mbstring/Mbstring.php on line 632
+[18-Jun-2022 11:18:35 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/aliuz/public_html/vendor/symfony/polyfill-mbstring/Mbstring.php on line 632
+[18-Jun-2022 11:18:35 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/aliuz/public_html/vendor/symfony/polyfill-mbstring/Mbstring.php on line 632
+[18-Jun-2022 11:18:35 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/aliuz/public_html/vendor/symfony/polyfill-mbstring/Mbstring.php on line 632
+[20-Jun-2022 04:38:45 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/aliuz/public_html/vendor/symfony/polyfill-mbstring/Mbstring.php on line 632
+[20-Jun-2022 04:39:11 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/aliuz/public_html/vendor/symfony/polyfill-mbstring/Mbstring.php on line 632
+[20-Jun-2022 04:40:36 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/aliuz/public_html/vendor/symfony/polyfill-mbstring/Mbstring.php on line 632
+[20-Jun-2022 04:50:03 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/aliuz/public_html/vendor/symfony/polyfill-mbstring/Mbstring.php on line 632
+[20-Jun-2022 04:58:42 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/aliuz/public_html/vendor/symfony/polyfill-mbstring/Mbstring.php on line 632
+[20-Jun-2022 05:00:18 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/aliuz/public_html/vendor/symfony/polyfill-mbstring/Mbstring.php on line 632
+[20-Jun-2022 05:07:12 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/aliuz/public_html/vendor/symfony/polyfill-mbstring/Mbstring.php on line 632
+[20-Jun-2022 05:10:23 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/aliuz/public_html/vendor/symfony/polyfill-mbstring/Mbstring.php on line 632
+[20-Jun-2022 05:14:38 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/aliuz/public_html/vendor/symfony/polyfill-mbstring/Mbstring.php on line 632
+[20-Jun-2022 05:27:20 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/aliuz/public_html/vendor/symfony/polyfill-mbstring/Mbstring.php on line 632
+[20-Jun-2022 05:40:50 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/aliuz/public_html/vendor/symfony/polyfill-mbstring/Mbstring.php on line 632
+[20-Jun-2022 05:41:22 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/aliuz/public_html/vendor/symfony/polyfill-mbstring/Mbstring.php on line 632
+[20-Jun-2022 09:19:05 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/aliuz/public_html/vendor/symfony/polyfill-mbstring/Mbstring.php on line 632
+[20-Jun-2022 09:20:35 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/aliuz/public_html/vendor/symfony/polyfill-mbstring/Mbstring.php on line 632
+[20-Jun-2022 09:21:27 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/aliuz/public_html/vendor/symfony/polyfill-mbstring/Mbstring.php on line 491
+[20-Jun-2022 09:22:54 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/aliuz/public_html/vendor/symfony/polyfill-mbstring/Mbstring.php on line 632
+[20-Jun-2022 09:23:28 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/aliuz/public_html/vendor/symfony/polyfill-mbstring/Mbstring.php on line 632
+[20-Jun-2022 09:24:48 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/aliuz/public_html/vendor/symfony/polyfill-mbstring/Mbstring.php on line 632
+[20-Jun-2022 09:33:12 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/aliuz/public_html/vendor/symfony/polyfill-mbstring/Mbstring.php on line 632
+[20-Jun-2022 09:33:58 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/aliuz/public_html/vendor/symfony/polyfill-mbstring/Mbstring.php on line 632
+[20-Jun-2022 09:35:08 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/aliuz/public_html/vendor/symfony/polyfill-mbstring/Mbstring.php on line 632
+[20-Jun-2022 09:37:43 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/aliuz/public_html/vendor/symfony/polyfill-mbstring/Mbstring.php on line 632
+[20-Jun-2022 09:38:44 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/aliuz/public_html/vendor/symfony/polyfill-mbstring/Mbstring.php on line 632
+[20-Jun-2022 09:38:49 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/aliuz/public_html/vendor/symfony/polyfill-mbstring/Mbstring.php on line 632
+[20-Jun-2022 09:38:50 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/aliuz/public_html/vendor/symfony/polyfill-mbstring/Mbstring.php on line 632
+[20-Jun-2022 09:41:03 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/aliuz/public_html/vendor/symfony/polyfill-mbstring/Mbstring.php on line 632
+[20-Jun-2022 09:41:28 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/aliuz/public_html/vendor/symfony/polyfill-mbstring/Mbstring.php on line 632
+[20-Jun-2022 09:43:21 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/aliuz/public_html/vendor/symfony/polyfill-mbstring/Mbstring.php on line 632
+[20-Jun-2022 09:44:36 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/aliuz/public_html/vendor/symfony/polyfill-mbstring/Mbstring.php on line 632
+[20-Jun-2022 09:45:33 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/aliuz/public_html/vendor/symfony/polyfill-mbstring/Mbstring.php on line 632
+[20-Jun-2022 09:52:22 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/aliuz/public_html/vendor/symfony/polyfill-mbstring/Mbstring.php on line 632
+[21-Jun-2022 04:33:23 UTC] PHP Fatal error:  Cannot use App\Http\Controllers\Api\GetController as GetController because the name is already in use in /home/aliuz/public_html/routes/api.php on line 8
+[21-Jun-2022 04:33:26 UTC] PHP Fatal error:  Cannot use App\Http\Controllers\Api\GetController as GetController because the name is already in use in /home/aliuz/public_html/routes/api.php on line 8
+[21-Jun-2022 09:45:51 UTC] PHP Warning:  require(/home/aliuz/public_html/public/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/aliuz/public_html/public/index.php on line 34
+[21-Jun-2022 09:45:51 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/aliuz/public_html/public/../vendor/autoload.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/aliuz/public_html/public/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/aliuz/public_html/public/index.php on line 34
+[22-Jun-2022 04:28:28 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/aliuz/public_html/vendor/symfony/polyfill-mbstring/Mbstring.php on line 635
+[22-Jun-2022 04:28:32 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/aliuz/public_html/vendor/symfony/polyfill-mbstring/Mbstring.php on line 635
+[22-Jun-2022 04:29:08 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/aliuz/public_html/vendor/symfony/polyfill-mbstring/Mbstring.php on line 635
+[22-Jun-2022 04:51:14 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/aliuz/public_html/vendor/symfony/polyfill-mbstring/Mbstring.php on line 635
+[22-Jun-2022 04:59:42 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/aliuz/public_html/vendor/symfony/polyfill-mbstring/Mbstring.php on line 635
+[22-Jun-2022 06:20:33 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/aliuz/public_html/vendor/symfony/polyfill-mbstring/Mbstring.php on line 635
+[22-Jun-2022 06:23:13 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/aliuz/public_html/vendor/symfony/polyfill-mbstring/Mbstring.php on line 635
+[22-Jun-2022 06:23:20 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/aliuz/public_html/vendor/symfony/polyfill-mbstring/Mbstring.php on line 635
+[22-Jun-2022 06:23:36 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/aliuz/public_html/vendor/symfony/polyfill-mbstring/Mbstring.php on line 635
+[22-Jun-2022 06:24:46 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/aliuz/public_html/vendor/symfony/polyfill-mbstring/Mbstring.php on line 635
+[22-Jun-2022 06:24:50 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/aliuz/public_html/vendor/symfony/polyfill-mbstring/Mbstring.php on line 635
+[22-Jun-2022 08:36:08 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/aliuz/public_html/vendor/symfony/polyfill-mbstring/Mbstring.php on line 635
+[22-Jun-2022 08:37:28 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/aliuz/public_html/vendor/symfony/polyfill-mbstring/Mbstring.php on line 491
+[22-Jun-2022 08:42:00 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/aliuz/public_html/vendor/symfony/polyfill-mbstring/Mbstring.php on line 635
+[22-Jun-2022 08:48:03 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/aliuz/public_html/vendor/symfony/polyfill-mbstring/Mbstring.php on line 635
+[22-Jun-2022 09:11:18 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/aliuz/public_html/vendor/symfony/polyfill-mbstring/Mbstring.php on line 635
+[22-Jun-2022 09:12:06 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/aliuz/public_html/vendor/symfony/polyfill-mbstring/Mbstring.php on line 635
+[22-Jun-2022 09:12:52 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/aliuz/public_html/vendor/symfony/polyfill-mbstring/Mbstring.php on line 635
+[22-Jun-2022 10:06:09 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/aliuz/public_html/vendor/symfony/polyfill-mbstring/Mbstring.php on line 635
+[22-Jun-2022 10:08:31 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/aliuz/public_html/vendor/symfony/polyfill-mbstring/Mbstring.php on line 635
+[22-Jun-2022 10:08:50 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/aliuz/public_html/vendor/symfony/polyfill-mbstring/Mbstring.php on line 635
+[22-Jun-2022 10:08:55 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/aliuz/public_html/vendor/symfony/polyfill-mbstring/Mbstring.php on line 635
+[22-Jun-2022 10:08:59 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/aliuz/public_html/vendor/symfony/polyfill-mbstring/Mbstring.php on line 635
+[22-Jun-2022 10:09:26 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/aliuz/public_html/vendor/symfony/polyfill-mbstring/Mbstring.php on line 635
+[22-Jun-2022 10:10:05 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/aliuz/public_html/vendor/symfony/polyfill-mbstring/Mbstring.php on line 635
+[22-Jun-2022 10:10:56 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/aliuz/public_html/vendor/symfony/polyfill-mbstring/Mbstring.php on line 635
+[23-Jun-2022 03:44:15 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/aliuz/public_html/vendor/symfony/polyfill-mbstring/Mbstring.php on line 635
+[23-Jun-2022 05:48:06 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/aliuz/public_html/vendor/symfony/polyfill-mbstring/Mbstring.php on line 635
+[23-Jun-2022 05:48:51 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/aliuz/public_html/vendor/symfony/polyfill-mbstring/Mbstring.php on line 635
+[23-Jun-2022 05:48:55 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/aliuz/public_html/vendor/symfony/polyfill-mbstring/Mbstring.php on line 635
+[23-Jun-2022 05:50:11 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/aliuz/public_html/vendor/symfony/polyfill-mbstring/Mbstring.php on line 491
+[23-Jun-2022 05:50:12 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/aliuz/public_html/vendor/symfony/polyfill-mbstring/Mbstring.php on line 635
+[23-Jun-2022 05:50:13 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/aliuz/public_html/vendor/symfony/polyfill-mbstring/Mbstring.php on line 635
+[23-Jun-2022 05:50:21 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/aliuz/public_html/vendor/symfony/polyfill-mbstring/Mbstring.php on line 635
+[23-Jun-2022 05:57:10 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/aliuz/public_html/vendor/symfony/polyfill-mbstring/Mbstring.php on line 635
+[23-Jun-2022 05:57:17 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/aliuz/public_html/vendor/symfony/polyfill-mbstring/Mbstring.php on line 635
+[24-Jun-2022 05:52:12 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/aliuz/public_html/vendor/symfony/polyfill-mbstring/Mbstring.php on line 635
+[24-Jun-2022 05:54:36 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/aliuz/public_html/vendor/symfony/polyfill-mbstring/Mbstring.php on line 635
+[24-Jun-2022 05:54:40 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/aliuz/public_html/vendor/symfony/polyfill-mbstring/Mbstring.php on line 635
+[24-Jun-2022 05:55:11 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/aliuz/public_html/vendor/symfony/polyfill-mbstring/Mbstring.php on line 635
+[24-Jun-2022 05:58:07 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/aliuz/public_html/vendor/symfony/polyfill-mbstring/Mbstring.php on line 635
+[24-Jun-2022 05:59:13 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/aliuz/public_html/vendor/symfony/polyfill-mbstring/Mbstring.php on line 635
+[24-Jun-2022 05:59:22 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/aliuz/public_html/vendor/symfony/polyfill-mbstring/Mbstring.php on line 635
+[24-Jun-2022 06:11:36 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/aliuz/public_html/vendor/symfony/polyfill-mbstring/Mbstring.php on line 635
+[24-Jun-2022 06:24:53 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/aliuz/public_html/vendor/symfony/polyfill-mbstring/Mbstring.php on line 635
+[24-Jun-2022 06:29:07 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/aliuz/public_html/vendor/symfony/polyfill-mbstring/Mbstring.php on line 635
+[24-Jun-2022 06:58:12 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/aliuz/public_html/vendor/symfony/polyfill-mbstring/Mbstring.php on line 635
+[24-Jun-2022 06:59:07 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/aliuz/public_html/vendor/symfony/polyfill-mbstring/Mbstring.php on line 635
+[24-Jun-2022 06:59:54 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/aliuz/public_html/vendor/symfony/polyfill-mbstring/Mbstring.php on line 635
+[24-Jun-2022 07:00:23 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/aliuz/public_html/vendor/symfony/polyfill-mbstring/Mbstring.php on line 635
+[27-Jun-2022 05:32:52 UTC] PHP Fatal error:  Assignments can only happen to writable values in /home/aliuz/public_html/app/Http/Controllers/Admin/LogoController.php on line 56
+[28-Jun-2022 11:27:07 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/aliuz/public_html/vendor/symfony/polyfill-mbstring/Mbstring.php on line 491
+[28-Jun-2022 11:28:04 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/aliuz/public_html/vendor/symfony/polyfill-mbstring/Mbstring.php on line 491
+[28-Jun-2022 11:28:05 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/aliuz/public_html/vendor/symfony/polyfill-mbstring/Mbstring.php on line 635
+[28-Jun-2022 11:28:06 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/aliuz/public_html/vendor/symfony/polyfill-mbstring/Mbstring.php on line 635
+[28-Jun-2022 11:28:07 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/aliuz/public_html/vendor/symfony/polyfill-mbstring/Mbstring.php on line 635
+[28-Jun-2022 11:28:54 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/aliuz/public_html/vendor/symfony/polyfill-mbstring/Mbstring.php on line 635
+[28-Jun-2022 11:29:03 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/aliuz/public_html/vendor/symfony/polyfill-mbstring/Mbstring.php on line 635
+[28-Jun-2022 11:29:04 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/aliuz/public_html/vendor/symfony/polyfill-mbstring/Mbstring.php on line 635
+[28-Jun-2022 11:29:17 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/aliuz/public_html/vendor/symfony/polyfill-mbstring/Mbstring.php on line 635
+[28-Jun-2022 11:29:53 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/aliuz/public_html/vendor/symfony/polyfill-mbstring/Mbstring.php on line 635
+[28-Jun-2022 11:29:54 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/aliuz/public_html/vendor/symfony/polyfill-mbstring/Mbstring.php on line 635
+[28-Jun-2022 11:30:06 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/aliuz/public_html/vendor/symfony/polyfill-mbstring/Mbstring.php on line 635
+[28-Jun-2022 11:37:19 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/aliuz/public_html/vendor/symfony/polyfill-mbstring/Mbstring.php on line 635
+[28-Jun-2022 11:37:20 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/aliuz/public_html/vendor/symfony/polyfill-mbstring/Mbstring.php on line 635
+[28-Jun-2022 11:38:41 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/aliuz/public_html/vendor/symfony/polyfill-mbstring/Mbstring.php on line 635
+[28-Jun-2022 11:38:44 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/aliuz/public_html/vendor/symfony/polyfill-mbstring/Mbstring.php on line 635
+[28-Jun-2022 11:38:48 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/aliuz/public_html/vendor/symfony/polyfill-mbstring/Mbstring.php on line 635
+[28-Jun-2022 11:39:01 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/aliuz/public_html/vendor/symfony/polyfill-mbstring/Mbstring.php on line 635
+[28-Jun-2022 11:43:08 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/aliuz/public_html/vendor/symfony/polyfill-mbstring/Mbstring.php on line 635
+[29-Jun-2022 09:27:48 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/aliuz/public_html/vendor/symfony/polyfill-mbstring/Mbstring.php on line 635
+[29-Jun-2022 09:27:53 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/aliuz/public_html/vendor/symfony/polyfill-mbstring/Mbstring.php on line 635
+[06-Jul-2022 03:18:43 UTC] PHP Notice:  date_default_timezone_set(): Timezone ID 'UTC+5' is invalid in /home/aliuz/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/LoadConfiguration.php on line 49
+[06-Jul-2022 03:18:54 UTC] PHP Notice:  date_default_timezone_set(): Timezone ID 'UTC+5' is invalid in /home/aliuz/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/LoadConfiguration.php on line 49
+[06-Jul-2022 08:55:55 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/aliuz/public_html/vendor/symfony/polyfill-mbstring/Mbstring.php on line 635
+[06-Jul-2022 08:55:59 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/aliuz/public_html/vendor/symfony/polyfill-mbstring/Mbstring.php on line 635
+[06-Jul-2022 08:56:17 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/aliuz/public_html/vendor/symfony/polyfill-mbstring/Mbstring.php on line 635
+[06-Jul-2022 08:56:33 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/aliuz/public_html/vendor/symfony/polyfill-mbstring/Mbstring.php on line 635
+[06-Jul-2022 08:56:39 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/aliuz/public_html/vendor/symfony/polyfill-mbstring/Mbstring.php on line 635
+[06-Jul-2022 08:58:41 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/aliuz/public_html/vendor/symfony/polyfill-mbstring/Mbstring.php on line 635
+[06-Jul-2022 08:59:34 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/aliuz/public_html/vendor/symfony/polyfill-mbstring/Mbstring.php on line 635
+[06-Jul-2022 09:00:05 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/aliuz/public_html/vendor/symfony/polyfill-mbstring/Mbstring.php on line 635
+[06-Jul-2022 09:00:59 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/aliuz/public_html/vendor/symfony/polyfill-mbstring/Mbstring.php on line 635
+[06-Jul-2022 09:02:04 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/aliuz/public_html/vendor/symfony/polyfill-mbstring/Mbstring.php on line 635
+[06-Jul-2022 09:02:13 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/aliuz/public_html/vendor/symfony/polyfill-mbstring/Mbstring.php on line 635
+[06-Jul-2022 09:05:17 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/aliuz/public_html/vendor/symfony/polyfill-mbstring/Mbstring.php on line 635
+[06-Jul-2022 09:09:18 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/aliuz/public_html/vendor/symfony/polyfill-mbstring/Mbstring.php on line 635
+[07-Jul-2022 04:31:56 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/aliuz/public_html/vendor/symfony/polyfill-mbstring/Mbstring.php on line 635
+[07-Jul-2022 04:37:29 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/aliuz/public_html/vendor/symfony/polyfill-mbstring/Mbstring.php on line 635
+[07-Jul-2022 05:01:10 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/aliuz/public_html/vendor/symfony/polyfill-mbstring/Mbstring.php on line 635
+[07-Jul-2022 05:08:32 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/aliuz/public_html/vendor/symfony/polyfill-mbstring/Mbstring.php on line 635
+[07-Jul-2022 05:08:39 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/aliuz/public_html/vendor/symfony/polyfill-mbstring/Mbstring.php on line 635
+[07-Jul-2022 05:19:16 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/aliuz/public_html/vendor/symfony/polyfill-mbstring/Mbstring.php on line 635
+[07-Jul-2022 05:53:57 UTC] PHP Fatal error:  Cannot redeclare App\Models\Client::favorites() in /home/aliuz/public_html/app/Models/Client.php on line 54
+[07-Jul-2022 05:53:58 UTC] PHP Fatal error:  Cannot redeclare App\Models\Client::favorites() in /home/aliuz/public_html/app/Models/Client.php on line 54
+[07-Jul-2022 05:54:03 UTC] PHP Fatal error:  Cannot redeclare App\Models\Client::favorites() in /home/aliuz/public_html/app/Models/Client.php on line 54
+[07-Jul-2022 05:54:03 UTC] PHP Fatal error:  Cannot redeclare App\Models\Client::favorites() in /home/aliuz/public_html/app/Models/Client.php on line 54
+[07-Jul-2022 05:54:03 UTC] PHP Fatal error:  Cannot redeclare App\Models\Client::favorites() in /home/aliuz/public_html/app/Models/Client.php on line 54
+[07-Jul-2022 05:54:07 UTC] PHP Fatal error:  Cannot redeclare App\Models\Client::favorites() in /home/aliuz/public_html/app/Models/Client.php on line 54
+[07-Jul-2022 05:54:10 UTC] PHP Fatal error:  Cannot redeclare App\Models\Client::favorites() in /home/aliuz/public_html/app/Models/Client.php on line 54
+[07-Jul-2022 05:54:10 UTC] PHP Fatal error:  Cannot redeclare App\Models\Client::favorites() in /home/aliuz/public_html/app/Models/Client.php on line 54
+[07-Jul-2022 05:54:23 UTC] PHP Fatal error:  Cannot redeclare App\Models\Client::favorites() in /home/aliuz/public_html/app/Models/Client.php on line 54
+[07-Jul-2022 05:54:23 UTC] PHP Fatal error:  Cannot redeclare App\Models\Client::favorites() in /home/aliuz/public_html/app/Models/Client.php on line 54
+[07-Jul-2022 05:55:53 UTC] PHP Fatal error:  Cannot redeclare App\Models\Client::favorites() in /home/aliuz/public_html/app/Models/Client.php on line 54
+[07-Jul-2022 05:55:57 UTC] PHP Fatal error:  Cannot redeclare App\Models\Client::favorites() in /home/aliuz/public_html/app/Models/Client.php on line 54
+[07-Jul-2022 05:56:12 UTC] PHP Fatal error:  Cannot redeclare App\Models\Client::favorites() in /home/aliuz/public_html/app/Models/Client.php on line 54
+[07-Jul-2022 05:56:12 UTC] PHP Fatal error:  Cannot redeclare App\Models\Client::favorites() in /home/aliuz/public_html/app/Models/Client.php on line 54
+[07-Jul-2022 05:56:16 UTC] PHP Fatal error:  Cannot redeclare App\Models\Client::favorites() in /home/aliuz/public_html/app/Models/Client.php on line 54
+[07-Jul-2022 05:56:25 UTC] PHP Fatal error:  Cannot redeclare App\Models\Client::favorites() in /home/aliuz/public_html/app/Models/Client.php on line 54
+[07-Jul-2022 05:56:26 UTC] PHP Fatal error:  Cannot redeclare App\Models\Client::favorites() in /home/aliuz/public_html/app/Models/Client.php on line 54
+[07-Jul-2022 05:56:30 UTC] PHP Fatal error:  Cannot redeclare App\Models\Client::favorites() in /home/aliuz/public_html/app/Models/Client.php on line 54
+[07-Jul-2022 05:56:36 UTC] PHP Fatal error:  Cannot redeclare App\Models\Client::favorites() in /home/aliuz/public_html/app/Models/Client.php on line 54
+[07-Jul-2022 05:56:36 UTC] PHP Fatal error:  Cannot redeclare App\Models\Client::favorites() in /home/aliuz/public_html/app/Models/Client.php on line 54
+[07-Jul-2022 05:56:41 UTC] PHP Fatal error:  Cannot redeclare App\Models\Client::favorites() in /home/aliuz/public_html/app/Models/Client.php on line 54
+[07-Jul-2022 05:56:55 UTC] PHP Fatal error:  Cannot redeclare App\Models\Client::favorites() in /home/aliuz/public_html/app/Models/Client.php on line 54
+[07-Jul-2022 05:56:55 UTC] PHP Fatal error:  Cannot redeclare App\Models\Client::favorites() in /home/aliuz/public_html/app/Models/Client.php on line 54
+[07-Jul-2022 05:56:59 UTC] PHP Fatal error:  Cannot redeclare App\Models\Client::favorites() in /home/aliuz/public_html/app/Models/Client.php on line 54
+[07-Jul-2022 05:56:59 UTC] PHP Fatal error:  Cannot redeclare App\Models\Client::favorites() in /home/aliuz/public_html/app/Models/Client.php on line 54
+[07-Jul-2022 05:57:00 UTC] PHP Fatal error:  Cannot redeclare App\Models\Client::favorites() in /home/aliuz/public_html/app/Models/Client.php on line 54
+[07-Jul-2022 05:57:00 UTC] PHP Fatal error:  Cannot redeclare App\Models\Client::favorites() in /home/aliuz/public_html/app/Models/Client.php on line 54
+[07-Jul-2022 05:57:00 UTC] PHP Fatal error:  Cannot redeclare App\Models\Client::favorites() in /home/aliuz/public_html/app/Models/Client.php on line 54
+[07-Jul-2022 05:57:01 UTC] PHP Fatal error:  Cannot redeclare App\Models\Client::favorites() in /home/aliuz/public_html/app/Models/Client.php on line 54
+[07-Jul-2022 05:57:04 UTC] PHP Fatal error:  Cannot redeclare App\Models\Client::favorites() in /home/aliuz/public_html/app/Models/Client.php on line 54
+[07-Jul-2022 05:57:04 UTC] PHP Fatal error:  Cannot redeclare App\Models\Client::favorites() in /home/aliuz/public_html/app/Models/Client.php on line 54
+[07-Jul-2022 05:57:09 UTC] PHP Fatal error:  Cannot redeclare App\Models\Client::favorites() in /home/aliuz/public_html/app/Models/Client.php on line 54
+[07-Jul-2022 05:57:52 UTC] PHP Fatal error:  Cannot redeclare App\Models\Client::favorites() in /home/aliuz/public_html/app/Models/Client.php on line 54
+[07-Jul-2022 05:57:52 UTC] PHP Fatal error:  Cannot redeclare App\Models\Client::favorites() in /home/aliuz/public_html/app/Models/Client.php on line 54
+[07-Jul-2022 05:57:56 UTC] PHP Fatal error:  Cannot redeclare App\Models\Client::favorites() in /home/aliuz/public_html/app/Models/Client.php on line 54
+[07-Jul-2022 05:57:58 UTC] PHP Fatal error:  Cannot redeclare App\Models\Client::favorites() in /home/aliuz/public_html/app/Models/Client.php on line 54
+[07-Jul-2022 05:57:59 UTC] PHP Fatal error:  Cannot redeclare App\Models\Client::favorites() in /home/aliuz/public_html/app/Models/Client.php on line 54
+[07-Jul-2022 05:57:59 UTC] PHP Fatal error:  Cannot redeclare App\Models\Client::favorites() in /home/aliuz/public_html/app/Models/Client.php on line 54
+[07-Jul-2022 05:57:59 UTC] PHP Fatal error:  Cannot redeclare App\Models\Client::favorites() in /home/aliuz/public_html/app/Models/Client.php on line 54
+[07-Jul-2022 05:58:06 UTC] PHP Fatal error:  Cannot redeclare App\Models\Client::favorites() in /home/aliuz/public_html/app/Models/Client.php on line 54
+[07-Jul-2022 05:58:06 UTC] PHP Fatal error:  Cannot redeclare App\Models\Client::favorites() in /home/aliuz/public_html/app/Models/Client.php on line 54
+[07-Jul-2022 05:58:06 UTC] PHP Fatal error:  Cannot redeclare App\Models\Client::favorites() in /home/aliuz/public_html/app/Models/Client.php on line 54
+[07-Jul-2022 05:58:06 UTC] PHP Fatal error:  Cannot redeclare App\Models\Client::favorites() in /home/aliuz/public_html/app/Models/Client.php on line 54
+[07-Jul-2022 05:58:06 UTC] PHP Fatal error:  Cannot redeclare App\Models\Client::favorites() in /home/aliuz/public_html/app/Models/Client.php on line 54
+[07-Jul-2022 05:58:55 UTC] PHP Fatal error:  Cannot redeclare App\Models\Client::favorites() in /home/aliuz/public_html/app/Models/Client.php on line 54
+[07-Jul-2022 05:58:55 UTC] PHP Fatal error:  Cannot redeclare App\Models\Client::favorites() in /home/aliuz/public_html/app/Models/Client.php on line 54
+[07-Jul-2022 05:58:55 UTC] PHP Fatal error:  Cannot redeclare App\Models\Client::favorites() in /home/aliuz/public_html/app/Models/Client.php on line 54
+[07-Jul-2022 05:58:55 UTC] PHP Fatal error:  Cannot redeclare App\Models\Client::favorites() in /home/aliuz/public_html/app/Models/Client.php on line 54
+[07-Jul-2022 05:59:01 UTC] PHP Fatal error:  Cannot redeclare App\Models\Client::favorites() in /home/aliuz/public_html/app/Models/Client.php on line 54
+[07-Jul-2022 05:59:01 UTC] PHP Fatal error:  Cannot redeclare App\Models\Client::favorites() in /home/aliuz/public_html/app/Models/Client.php on line 54
+[07-Jul-2022 05:59:01 UTC] PHP Fatal error:  Cannot redeclare App\Models\Client::favorites() in /home/aliuz/public_html/app/Models/Client.php on line 54
+[07-Jul-2022 05:59:01 UTC] PHP Fatal error:  Cannot redeclare App\Models\Client::favorites() in /home/aliuz/public_html/app/Models/Client.php on line 54
+[07-Jul-2022 05:59:15 UTC] PHP Fatal error:  Cannot redeclare App\Models\Client::favorites() in /home/aliuz/public_html/app/Models/Client.php on line 54
+[07-Jul-2022 05:59:15 UTC] PHP Fatal error:  Cannot redeclare App\Models\Client::favorites() in /home/aliuz/public_html/app/Models/Client.php on line 54
+[07-Jul-2022 05:59:16 UTC] PHP Fatal error:  Cannot redeclare App\Models\Client::favorites() in /home/aliuz/public_html/app/Models/Client.php on line 54
+[07-Jul-2022 05:59:16 UTC] PHP Fatal error:  Cannot redeclare App\Models\Client::favorites() in /home/aliuz/public_html/app/Models/Client.php on line 54
+[07-Jul-2022 05:59:16 UTC] PHP Fatal error:  Cannot redeclare App\Models\Client::favorites() in /home/aliuz/public_html/app/Models/Client.php on line 54
+[07-Jul-2022 05:59:32 UTC] PHP Fatal error:  Cannot redeclare App\Models\Client::favorites() in /home/aliuz/public_html/app/Models/Client.php on line 54
+[07-Jul-2022 05:59:36 UTC] PHP Fatal error:  Cannot redeclare App\Models\Client::favorites() in /home/aliuz/public_html/app/Models/Client.php on line 54
+[07-Jul-2022 05:59:41 UTC] PHP Fatal error:  Cannot redeclare App\Models\Client::favorites() in /home/aliuz/public_html/app/Models/Client.php on line 54
+[07-Jul-2022 05:59:41 UTC] PHP Fatal error:  Cannot redeclare App\Models\Client::favorites() in /home/aliuz/public_html/app/Models/Client.php on line 54
+[07-Jul-2022 05:59:42 UTC] PHP Fatal error:  Cannot redeclare App\Models\Client::favorites() in /home/aliuz/public_html/app/Models/Client.php on line 54
+[07-Jul-2022 05:59:42 UTC] PHP Fatal error:  Cannot redeclare App\Models\Client::favorites() in /home/aliuz/public_html/app/Models/Client.php on line 54
+[07-Jul-2022 06:00:08 UTC] PHP Fatal error:  Cannot redeclare App\Models\Client::favorites() in /home/aliuz/public_html/app/Models/Client.php on line 54
+[07-Jul-2022 06:00:13 UTC] PHP Fatal error:  Cannot redeclare App\Models\Client::favorites() in /home/aliuz/public_html/app/Models/Client.php on line 54
+[07-Jul-2022 06:00:15 UTC] PHP Fatal error:  Cannot redeclare App\Models\Client::favorites() in /home/aliuz/public_html/app/Models/Client.php on line 54
+[07-Jul-2022 06:00:15 UTC] PHP Fatal error:  Cannot redeclare App\Models\Client::favorites() in /home/aliuz/public_html/app/Models/Client.php on line 54
+[07-Jul-2022 06:00:15 UTC] PHP Fatal error:  Cannot redeclare App\Models\Client::favorites() in /home/aliuz/public_html/app/Models/Client.php on line 54
+[07-Jul-2022 06:00:16 UTC] PHP Fatal error:  Cannot redeclare App\Models\Client::favorites() in /home/aliuz/public_html/app/Models/Client.php on line 54
+[07-Jul-2022 06:05:57 UTC] PHP Fatal error:  Cannot redeclare App\Models\Client::favorites() in /home/aliuz/public_html/app/Models/Client.php on line 54
+[07-Jul-2022 06:06:51 UTC] PHP Fatal error:  Cannot redeclare App\Models\Client::favorites() in /home/aliuz/public_html/app/Models/Client.php on line 54
+[07-Jul-2022 06:07:35 UTC] PHP Fatal error:  Cannot redeclare App\Models\Client::favorites() in /home/aliuz/public_html/app/Models/Client.php on line 54
+[07-Jul-2022 06:09:18 UTC] PHP Fatal error:  Cannot redeclare App\Models\Client::favorites() in /home/aliuz/public_html/app/Models/Client.php on line 54
+[07-Jul-2022 06:10:54 UTC] PHP Fatal error:  Cannot redeclare App\Models\Client::favorites() in /home/aliuz/public_html/app/Models/Client.php on line 54
+[07-Jul-2022 06:13:10 UTC] PHP Fatal error:  Cannot redeclare App\Models\Client::favorites() in /home/aliuz/public_html/app/Models/Client.php on line 54
+[07-Jul-2022 06:13:49 UTC] PHP Fatal error:  Cannot redeclare App\Models\Client::favorites() in /home/aliuz/public_html/app/Models/Client.php on line 54
+[07-Jul-2022 06:14:42 UTC] PHP Fatal error:  Cannot redeclare App\Models\Client::favorites() in /home/aliuz/public_html/app/Models/Client.php on line 54
+[07-Jul-2022 06:14:46 UTC] PHP Fatal error:  Cannot redeclare App\Models\Client::favorites() in /home/aliuz/public_html/app/Models/Client.php on line 54
+[07-Jul-2022 06:14:46 UTC] PHP Fatal error:  Cannot redeclare App\Models\Client::favorites() in /home/aliuz/public_html/app/Models/Client.php on line 54
+[07-Jul-2022 06:14:46 UTC] PHP Fatal error:  Cannot redeclare App\Models\Client::favorites() in /home/aliuz/public_html/app/Models/Client.php on line 54
+[07-Jul-2022 06:14:57 UTC] PHP Fatal error:  Cannot redeclare App\Models\Client::favorites() in /home/aliuz/public_html/app/Models/Client.php on line 54
+[07-Jul-2022 06:15:05 UTC] PHP Fatal error:  Cannot redeclare App\Models\Client::favorites() in /home/aliuz/public_html/app/Models/Client.php on line 54
+[07-Jul-2022 06:15:07 UTC] PHP Fatal error:  Cannot redeclare App\Models\Client::favorites() in /home/aliuz/public_html/app/Models/Client.php on line 54
+[07-Jul-2022 06:15:16 UTC] PHP Fatal error:  Cannot redeclare App\Models\Client::favorites() in /home/aliuz/public_html/app/Models/Client.php on line 54
+[07-Jul-2022 06:15:19 UTC] PHP Fatal error:  Cannot redeclare App\Models\Client::favorites() in /home/aliuz/public_html/app/Models/Client.php on line 54
+[07-Jul-2022 06:15:20 UTC] PHP Fatal error:  Cannot redeclare App\Models\Client::favorites() in /home/aliuz/public_html/app/Models/Client.php on line 54
+[07-Jul-2022 06:15:20 UTC] PHP Fatal error:  Cannot redeclare App\Models\Client::favorites() in /home/aliuz/public_html/app/Models/Client.php on line 54
+[07-Jul-2022 06:15:21 UTC] PHP Fatal error:  Cannot redeclare App\Models\Client::favorites() in /home/aliuz/public_html/app/Models/Client.php on line 54
+[07-Jul-2022 06:15:23 UTC] PHP Fatal error:  Cannot redeclare App\Models\Client::favorites() in /home/aliuz/public_html/app/Models/Client.php on line 54
+[07-Jul-2022 06:15:42 UTC] PHP Fatal error:  Cannot redeclare App\Models\Client::favorites() in /home/aliuz/public_html/app/Models/Client.php on line 54
+[07-Jul-2022 06:16:06 UTC] PHP Fatal error:  Cannot redeclare App\Models\Client::favorites() in /home/aliuz/public_html/app/Models/Client.php on line 54
+[07-Jul-2022 06:16:31 UTC] PHP Fatal error:  Cannot redeclare App\Models\Client::favorites() in /home/aliuz/public_html/app/Models/Client.php on line 54
+[07-Jul-2022 06:16:54 UTC] PHP Fatal error:  Cannot redeclare App\Models\Client::favorites() in /home/aliuz/public_html/app/Models/Client.php on line 54
+[07-Jul-2022 06:16:54 UTC] PHP Fatal error:  Cannot redeclare App\Models\Client::favorites() in /home/aliuz/public_html/app/Models/Client.php on line 54
+[07-Jul-2022 06:16:54 UTC] PHP Fatal error:  Cannot redeclare App\Models\Client::favorites() in /home/aliuz/public_html/app/Models/Client.php on line 54
+[07-Jul-2022 06:16:55 UTC] PHP Fatal error:  Cannot redeclare App\Models\Client::favorites() in /home/aliuz/public_html/app/Models/Client.php on line 54
+[07-Jul-2022 06:16:55 UTC] PHP Fatal error:  Cannot redeclare App\Models\Client::favorites() in /home/aliuz/public_html/app/Models/Client.php on line 54
+[07-Jul-2022 06:17:14 UTC] PHP Fatal error:  Cannot redeclare App\Models\Client::favorites() in /home/aliuz/public_html/app/Models/Client.php on line 54
+[07-Jul-2022 06:18:08 UTC] PHP Fatal error:  Cannot redeclare App\Models\Client::favorites() in /home/aliuz/public_html/app/Models/Client.php on line 54
+[07-Jul-2022 06:57:37 UTC] PHP Fatal error:  Cannot redeclare App\Models\Client::favorites() in /home/aliuz/public_html/app/Models/Client.php on line 54
+[08-Jul-2022 11:37:11 UTC] PHP Warning:  require(/home/aliuz/public_html/public/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/aliuz/public_html/public/index.php on line 34
+[08-Jul-2022 11:37:11 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/aliuz/public_html/public/../vendor/autoload.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/aliuz/public_html/public/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/aliuz/public_html/public/index.php on line 34
+[08-Jul-2022 11:37:11 UTC] PHP Warning:  require(/home/aliuz/public_html/public/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/aliuz/public_html/public/index.php on line 34
+[08-Jul-2022 11:37:11 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/aliuz/public_html/public/../vendor/autoload.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/aliuz/public_html/public/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/aliuz/public_html/public/index.php on line 34
+[08-Jul-2022 11:37:11 UTC] PHP Warning:  require(/home/aliuz/public_html/public/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/aliuz/public_html/public/index.php on line 34
+[08-Jul-2022 11:37:11 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/aliuz/public_html/public/../vendor/autoload.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/aliuz/public_html/public/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/aliuz/public_html/public/index.php on line 34
+[08-Jul-2022 11:37:11 UTC] PHP Warning:  require(/home/aliuz/public_html/public/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/aliuz/public_html/public/index.php on line 34
+[08-Jul-2022 11:37:11 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/aliuz/public_html/public/../vendor/autoload.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/aliuz/public_html/public/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/aliuz/public_html/public/index.php on line 34
+[08-Jul-2022 11:37:11 UTC] PHP Warning:  require(/home/aliuz/public_html/public/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/aliuz/public_html/public/index.php on line 34
+[08-Jul-2022 11:37:11 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/aliuz/public_html/public/../vendor/autoload.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/aliuz/public_html/public/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/aliuz/public_html/public/index.php on line 34
+[08-Jul-2022 11:37:11 UTC] PHP Warning:  require(/home/aliuz/public_html/public/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/aliuz/public_html/public/index.php on line 34
+[08-Jul-2022 11:37:11 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/aliuz/public_html/public/../vendor/autoload.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/aliuz/public_html/public/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/aliuz/public_html/public/index.php on line 34
+[08-Jul-2022 11:37:11 UTC] PHP Warning:  require(/home/aliuz/public_html/public/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/aliuz/public_html/public/index.php on line 34
+[08-Jul-2022 11:37:11 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/aliuz/public_html/public/../vendor/autoload.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/aliuz/public_html/public/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/aliuz/public_html/public/index.php on line 34
+[08-Jul-2022 11:37:11 UTC] PHP Warning:  require(/home/aliuz/public_html/public/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/aliuz/public_html/public/index.php on line 34
+[08-Jul-2022 11:37:11 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/aliuz/public_html/public/../vendor/autoload.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/aliuz/public_html/public/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/aliuz/public_html/public/index.php on line 34
+[08-Jul-2022 11:37:11 UTC] PHP Warning:  require(/home/aliuz/public_html/public/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/aliuz/public_html/public/index.php on line 34
+[08-Jul-2022 11:37:11 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/aliuz/public_html/public/../vendor/autoload.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/aliuz/public_html/public/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/aliuz/public_html/public/index.php on line 34
+[11-Jul-2022 10:14:22 UTC] PHP Fatal error:  Cannot redeclare App\Http\Controllers\Api\GetController::service() in /home/aliuz/public_html/app/Http/Controllers/Api/GetController.php on line 122
+[12-Jul-2022 12:28:04 Asia/Tashkent] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/aliuz/public_html/vendor/symfony/polyfill-mbstring/Mbstring.php on line 635
+[12-Jul-2022 12:30:22 Asia/Tashkent] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/aliuz/public_html/vendor/symfony/polyfill-mbstring/Mbstring.php on line 635
+[12-Jul-2022 12:30:34 Asia/Tashkent] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/aliuz/public_html/vendor/symfony/polyfill-mbstring/Mbstring.php on line 635
+[12-Jul-2022 12:31:36 Asia/Tashkent] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/aliuz/public_html/vendor/symfony/polyfill-mbstring/Mbstring.php on line 491
+[12-Jul-2022 12:32:07 Asia/Tashkent] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/aliuz/public_html/vendor/symfony/polyfill-mbstring/Mbstring.php on line 635
+[12-Jul-2022 12:32:08 Asia/Tashkent] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/aliuz/public_html/vendor/symfony/polyfill-mbstring/Mbstring.php on line 635
+[12-Jul-2022 12:33:47 Asia/Tashkent] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/aliuz/public_html/vendor/symfony/polyfill-mbstring/Mbstring.php on line 635
+[12-Jul-2022 12:34:40 Asia/Tashkent] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/aliuz/public_html/vendor/symfony/polyfill-mbstring/Mbstring.php on line 635
+[12-Jul-2022 12:34:56 Asia/Tashkent] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/aliuz/public_html/vendor/symfony/polyfill-mbstring/Mbstring.php on line 635
+[12-Jul-2022 12:35:20 Asia/Tashkent] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/aliuz/public_html/vendor/symfony/polyfill-mbstring/Mbstring.php on line 635
+[12-Jul-2022 12:37:01 Asia/Tashkent] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/aliuz/public_html/vendor/symfony/polyfill-mbstring/Mbstring.php on line 635
+[12-Jul-2022 12:38:24 Asia/Tashkent] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/aliuz/public_html/vendor/symfony/polyfill-mbstring/Mbstring.php on line 635
+[12-Jul-2022 12:39:57 Asia/Tashkent] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/aliuz/public_html/vendor/symfony/polyfill-mbstring/Mbstring.php on line 635
+[12-Jul-2022 12:40:07 Asia/Tashkent] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/aliuz/public_html/vendor/symfony/polyfill-mbstring/Mbstring.php on line 635
+[12-Jul-2022 12:40:16 Asia/Tashkent] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/aliuz/public_html/vendor/symfony/polyfill-mbstring/Mbstring.php on line 635
+[12-Jul-2022 12:40:47 Asia/Tashkent] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/aliuz/public_html/vendor/symfony/polyfill-mbstring/Mbstring.php on line 491
+[12-Jul-2022 12:41:32 Asia/Tashkent] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/aliuz/public_html/vendor/symfony/polyfill-mbstring/Mbstring.php on line 635
+[12-Jul-2022 12:41:40 Asia/Tashkent] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/aliuz/public_html/vendor/symfony/polyfill-mbstring/Mbstring.php on line 635
+[12-Jul-2022 12:42:08 Asia/Tashkent] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/aliuz/public_html/vendor/symfony/polyfill-mbstring/Mbstring.php on line 635
+[12-Jul-2022 12:45:08 Asia/Tashkent] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/aliuz/public_html/vendor/symfony/polyfill-mbstring/Mbstring.php on line 635
+[12-Jul-2022 12:47:36 Asia/Tashkent] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/aliuz/public_html/vendor/symfony/polyfill-mbstring/Mbstring.php on line 635
+[12-Jul-2022 12:48:03 Asia/Tashkent] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/aliuz/public_html/vendor/symfony/polyfill-mbstring/Mbstring.php on line 635
+[12-Jul-2022 12:48:15 Asia/Tashkent] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/aliuz/public_html/vendor/symfony/polyfill-mbstring/Mbstring.php on line 635
+[12-Jul-2022 12:52:21 Asia/Tashkent] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/aliuz/public_html/vendor/symfony/polyfill-mbstring/Mbstring.php on line 635
+[12-Jul-2022 12:53:01 Asia/Tashkent] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/aliuz/public_html/vendor/symfony/polyfill-mbstring/Mbstring.php on line 635
+[12-Jul-2022 13:19:06 Asia/Tashkent] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/aliuz/public_html/vendor/symfony/polyfill-mbstring/Mbstring.php on line 635
+[12-Jul-2022 13:19:25 Asia/Tashkent] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/aliuz/public_html/vendor/symfony/polyfill-mbstring/Mbstring.php on line 635
+[12-Jul-2022 13:22:48 Asia/Tashkent] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/aliuz/public_html/vendor/symfony/polyfill-mbstring/Mbstring.php on line 635
+[12-Jul-2022 13:24:27 Asia/Tashkent] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/aliuz/public_html/vendor/symfony/polyfill-mbstring/Mbstring.php on line 635
+[12-Jul-2022 13:24:35 Asia/Tashkent] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/aliuz/public_html/vendor/symfony/polyfill-mbstring/Mbstring.php on line 635
+[12-Jul-2022 13:32:28 Asia/Tashkent] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/aliuz/public_html/vendor/symfony/polyfill-mbstring/Mbstring.php on line 635
+[12-Jul-2022 13:32:31 Asia/Tashkent] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/aliuz/public_html/vendor/symfony/polyfill-mbstring/Mbstring.php on line 635
+[12-Jul-2022 13:38:40 Asia/Tashkent] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/aliuz/public_html/vendor/symfony/polyfill-mbstring/Mbstring.php on line 635
+[12-Jul-2022 13:39:41 Asia/Tashkent] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/aliuz/public_html/vendor/symfony/polyfill-mbstring/Mbstring.php on line 635
+[12-Jul-2022 13:47:21 Asia/Tashkent] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/aliuz/public_html/vendor/symfony/polyfill-mbstring/Mbstring.php on line 635
+[12-Jul-2022 13:48:45 Asia/Tashkent] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/aliuz/public_html/vendor/symfony/polyfill-mbstring/Mbstring.php on line 635
+[12-Jul-2022 13:48:55 Asia/Tashkent] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/aliuz/public_html/vendor/symfony/polyfill-mbstring/Mbstring.php on line 635
+[12-Jul-2022 13:48:56 Asia/Tashkent] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/aliuz/public_html/vendor/symfony/polyfill-mbstring/Mbstring.php on line 635
+[12-Jul-2022 13:48:56 Asia/Tashkent] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/aliuz/public_html/vendor/symfony/polyfill-mbstring/Mbstring.php on line 635
+[12-Jul-2022 13:48:56 Asia/Tashkent] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/aliuz/public_html/vendor/symfony/polyfill-mbstring/Mbstring.php on line 635
+[12-Jul-2022 13:48:56 Asia/Tashkent] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/aliuz/public_html/vendor/symfony/polyfill-mbstring/Mbstring.php on line 635
+[12-Jul-2022 13:49:23 Asia/Tashkent] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/aliuz/public_html/vendor/symfony/polyfill-mbstring/Mbstring.php on line 635
+[12-Jul-2022 13:49:55 Asia/Tashkent] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/aliuz/public_html/vendor/symfony/polyfill-mbstring/Mbstring.php on line 635
+[12-Jul-2022 13:54:53 Asia/Tashkent] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/aliuz/public_html/vendor/symfony/polyfill-mbstring/Mbstring.php on line 635
+[12-Jul-2022 13:56:10 Asia/Tashkent] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/aliuz/public_html/vendor/symfony/polyfill-mbstring/Mbstring.php on line 635
+[12-Jul-2022 13:56:35 Asia/Tashkent] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/aliuz/public_html/vendor/symfony/polyfill-mbstring/Mbstring.php on line 635
+[12-Jul-2022 13:57:32 Asia/Tashkent] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/aliuz/public_html/vendor/symfony/polyfill-mbstring/Mbstring.php on line 635
+[12-Jul-2022 13:57:55 Asia/Tashkent] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/aliuz/public_html/vendor/symfony/polyfill-mbstring/Mbstring.php on line 635
+[12-Jul-2022 13:58:31 Asia/Tashkent] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/aliuz/public_html/vendor/symfony/polyfill-mbstring/Mbstring.php on line 635
+[12-Jul-2022 13:58:44 Asia/Tashkent] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/aliuz/public_html/vendor/symfony/polyfill-mbstring/Mbstring.php on line 635
+[12-Jul-2022 13:59:41 Asia/Tashkent] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/aliuz/public_html/vendor/symfony/polyfill-mbstring/Mbstring.php on line 635
+[12-Jul-2022 14:00:27 Asia/Tashkent] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/aliuz/public_html/vendor/symfony/polyfill-mbstring/Mbstring.php on line 635
+[12-Jul-2022 14:00:42 Asia/Tashkent] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/aliuz/public_html/vendor/symfony/polyfill-mbstring/Mbstring.php on line 491
+[12-Jul-2022 14:01:01 Asia/Tashkent] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/aliuz/public_html/vendor/symfony/polyfill-mbstring/Mbstring.php on line 635
+[12-Jul-2022 14:02:23 Asia/Tashkent] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/aliuz/public_html/vendor/symfony/polyfill-mbstring/Mbstring.php on line 635
+[12-Jul-2022 14:04:38 Asia/Tashkent] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/aliuz/public_html/vendor/symfony/polyfill-mbstring/Mbstring.php on line 635
+[12-Jul-2022 14:05:24 Asia/Tashkent] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/aliuz/public_html/vendor/symfony/polyfill-mbstring/Mbstring.php on line 635
+[12-Jul-2022 14:34:10 Asia/Tashkent] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/aliuz/public_html/vendor/symfony/polyfill-mbstring/Mbstring.php on line 635
+[12-Jul-2022 14:34:13 Asia/Tashkent] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/aliuz/public_html/vendor/symfony/polyfill-mbstring/Mbstring.php on line 635
+[12-Jul-2022 14:49:58 Asia/Tashkent] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/aliuz/public_html/vendor/symfony/polyfill-mbstring/Mbstring.php on line 635
+[12-Jul-2022 14:50:04 Asia/Tashkent] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/aliuz/public_html/vendor/symfony/polyfill-mbstring/Mbstring.php on line 635
+[12-Jul-2022 16:32:39 Asia/Tashkent] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/aliuz/public_html/vendor/symfony/polyfill-mbstring/Mbstring.php on line 635
+[12-Jul-2022 16:32:52 Asia/Tashkent] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/aliuz/public_html/vendor/symfony/polyfill-mbstring/Mbstring.php on line 635
+[12-Jul-2022 16:33:05 Asia/Tashkent] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/aliuz/public_html/vendor/symfony/polyfill-mbstring/Mbstring.php on line 635
+[12-Jul-2022 16:41:02 Asia/Tashkent] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/aliuz/public_html/vendor/symfony/polyfill-mbstring/Mbstring.php on line 635
+[12-Jul-2022 16:41:30 Asia/Tashkent] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/aliuz/public_html/vendor/symfony/polyfill-mbstring/Mbstring.php on line 635
+[12-Jul-2022 16:43:17 Asia/Tashkent] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/aliuz/public_html/vendor/symfony/polyfill-mbstring/Mbstring.php on line 635
+[13-Jul-2022 10:22:28 Asia/Tashkent] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/aliuz/public_html/vendor/symfony/polyfill-mbstring/Mbstring.php on line 635
+[13-Jul-2022 10:26:30 Asia/Tashkent] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/aliuz/public_html/vendor/symfony/polyfill-mbstring/Mbstring.php on line 635
+[13-Jul-2022 10:26:36 Asia/Tashkent] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/aliuz/public_html/vendor/symfony/polyfill-mbstring/Mbstring.php on line 635
+[13-Jul-2022 10:26:47 Asia/Tashkent] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/aliuz/public_html/vendor/symfony/polyfill-mbstring/Mbstring.php on line 635
+[13-Jul-2022 10:27:36 Asia/Tashkent] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/aliuz/public_html/vendor/symfony/polyfill-mbstring/Mbstring.php on line 635
+[13-Jul-2022 10:27:47 Asia/Tashkent] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/aliuz/public_html/vendor/symfony/polyfill-mbstring/Mbstring.php on line 635
+[13-Jul-2022 10:27:49 Asia/Tashkent] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/aliuz/public_html/vendor/symfony/polyfill-mbstring/Mbstring.php on line 635
+[13-Jul-2022 10:27:50 Asia/Tashkent] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/aliuz/public_html/vendor/symfony/polyfill-mbstring/Mbstring.php on line 635
+[13-Jul-2022 10:27:58 Asia/Tashkent] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/aliuz/public_html/vendor/symfony/polyfill-mbstring/Mbstring.php on line 635
+[13-Jul-2022 10:28:57 Asia/Tashkent] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/aliuz/public_html/vendor/symfony/polyfill-mbstring/Mbstring.php on line 635
+[13-Jul-2022 10:29:58 Asia/Tashkent] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/aliuz/public_html/vendor/symfony/polyfill-mbstring/Mbstring.php on line 635
+[13-Jul-2022 10:30:06 Asia/Tashkent] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/aliuz/public_html/vendor/symfony/polyfill-mbstring/Mbstring.php on line 635
+[13-Jul-2022 10:30:06 Asia/Tashkent] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/aliuz/public_html/vendor/symfony/polyfill-mbstring/Mbstring.php on line 635
+[13-Jul-2022 10:30:07 Asia/Tashkent] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/aliuz/public_html/vendor/symfony/polyfill-mbstring/Mbstring.php on line 635
+[13-Jul-2022 10:30:17 Asia/Tashkent] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/aliuz/public_html/vendor/symfony/polyfill-mbstring/Mbstring.php on line 635
+[13-Jul-2022 10:49:46 Asia/Tashkent] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/aliuz/public_html/vendor/symfony/polyfill-mbstring/Mbstring.php on line 635
+[13-Jul-2022 10:49:52 Asia/Tashkent] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/aliuz/public_html/vendor/symfony/polyfill-mbstring/Mbstring.php on line 635
+[13-Jul-2022 10:50:10 Asia/Tashkent] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/aliuz/public_html/vendor/symfony/polyfill-mbstring/Mbstring.php on line 635
+[13-Jul-2022 10:50:29 Asia/Tashkent] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/aliuz/public_html/vendor/symfony/polyfill-mbstring/Mbstring.php on line 491
+[14-Jul-2022 10:40:14 Asia/Tashkent] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/aliuz/public_html/vendor/symfony/polyfill-mbstring/Mbstring.php on line 491
+[14-Jul-2022 10:40:29 Asia/Tashkent] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/aliuz/public_html/vendor/symfony/polyfill-mbstring/Mbstring.php on line 635
+[14-Jul-2022 10:40:37 Asia/Tashkent] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/aliuz/public_html/vendor/symfony/polyfill-mbstring/Mbstring.php on line 635
+[14-Jul-2022 10:40:57 Asia/Tashkent] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/aliuz/public_html/vendor/symfony/polyfill-mbstring/Mbstring.php on line 635
+[14-Jul-2022 10:42:25 Asia/Tashkent] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/aliuz/public_html/vendor/symfony/polyfill-mbstring/Mbstring.php on line 635
+[14-Jul-2022 10:43:15 Asia/Tashkent] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/aliuz/public_html/vendor/symfony/polyfill-mbstring/Mbstring.php on line 635
+[14-Jul-2022 10:43:18 Asia/Tashkent] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/aliuz/public_html/vendor/symfony/polyfill-mbstring/Mbstring.php on line 635
+[14-Jul-2022 10:45:19 Asia/Tashkent] PHP Fatal error:  Uncaught ErrorException: include(/home/aliuz/public_html/vendor/composer/../laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php): Failed to open stream: No such file or directory in /home/aliuz/public_html/vendor/composer/ClassLoader.php:571
+Stack trace:
+#0 /home/aliuz/public_html/vendor/composer/ClassLoader.php(571): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError()
+#1 /home/aliuz/public_html/vendor/composer/ClassLoader.php(571): include()
+#2 /home/aliuz/public_html/vendor/composer/ClassLoader.php(428): Composer\Autoload\includeFile()
+#3 /home/aliuz/public_html/app/Exceptions/Handler.php(8): Composer\Autoload\ClassLoader->loadClass()
+#4 /home/aliuz/public_html/vendor/composer/ClassLoader.php(571): include('/home/aliuz/pub...')
+#5 /home/aliuz/public_html/vendor/composer/ClassLoader.php(428): Composer\Autoload\includeFile()
+#6 [internal function]: Composer\Autoload\ClassLoader->loadClass()
+#7 /home/aliuz/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(877): ReflectionClass->__construct()
+#8 /home/aliuz/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(758): Illuminate\Container\Container->build()
+#9 /home/aliuz/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(851): Illuminate\Container\Container->resolve()
+#10 /home/aliuz/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(296): Illuminate\Foundation\Application->resolve()
+#11 /home/aliuz/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(873): Illuminate\Container\Container->Illuminate\Container\{closure}()
+#12 /home/aliuz/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(758): Illuminate\Container\Container->build()
+#13 /home/aliuz/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(851): Illuminate\Container\Container->resolve()
+#14 /home/aliuz/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(694): Illuminate\Foundation\Application->resolve()
+#15 /home/aliuz/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(836): Illuminate\Container\Container->make()
+#16 /home/aliuz/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(254): Illuminate\Foundation\Application->make()
+#17 /home/aliuz/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(196): Illuminate\Foundation\Bootstrap\HandleExceptions->getExceptionHandler()
+#18 /home/aliuz/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(173): Illuminate\Foundation\Bootstrap\HandleExceptions->renderHttpResponse()
+#19 [internal function]: Illuminate\Foundation\Bootstrap\HandleExceptions->handleException()
+#20 {main}
+  thrown in /home/aliuz/public_html/vendor/composer/ClassLoader.php on line 571
+[14-Jul-2022 05:45:19 UTC] PHP Warning:  require(/home/aliuz/public_html/vendor/composer/../laravel/framework/src/Illuminate/Collections/helpers.php): Failed to open stream: No such file or directory in /home/aliuz/public_html/vendor/composer/autoload_real.php on line 78
+[14-Jul-2022 05:45:19 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/aliuz/public_html/vendor/composer/../laravel/framework/src/Illuminate/Collections/helpers.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/aliuz/public_html/vendor/composer/autoload_real.php:78
+Stack trace:
+#0 /home/aliuz/public_html/vendor/composer/autoload_real.php(61): composerRequire83fd28ec2d0e485dbb5b397be83c74bf()
+#1 /home/aliuz/public_html/vendor/autoload.php(7): ComposerAutoloaderInit83fd28ec2d0e485dbb5b397be83c74bf::getLoader()
+#2 /home/aliuz/public_html/public/index.php(34): require('/home/aliuz/pub...')
+#3 {main}
+  thrown in /home/aliuz/public_html/vendor/composer/autoload_real.php on line 78
+[14-Jul-2022 05:45:19 UTC] PHP Warning:  require(/home/aliuz/public_html/vendor/composer/../laravel/framework/src/Illuminate/Collections/helpers.php): Failed to open stream: No such file or directory in /home/aliuz/public_html/vendor/composer/autoload_real.php on line 78
+[14-Jul-2022 05:45:19 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/aliuz/public_html/vendor/composer/../laravel/framework/src/Illuminate/Collections/helpers.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/aliuz/public_html/vendor/composer/autoload_real.php:78
+Stack trace:
+#0 /home/aliuz/public_html/vendor/composer/autoload_real.php(61): composerRequire83fd28ec2d0e485dbb5b397be83c74bf()
+#1 /home/aliuz/public_html/vendor/autoload.php(7): ComposerAutoloaderInit83fd28ec2d0e485dbb5b397be83c74bf::getLoader()
+#2 /home/aliuz/public_html/public/index.php(34): require('/home/aliuz/pub...')
+#3 {main}
+  thrown in /home/aliuz/public_html/vendor/composer/autoload_real.php on line 78
+[14-Jul-2022 05:45:19 UTC] PHP Warning:  require(/home/aliuz/public_html/vendor/composer/../laravel/framework/src/Illuminate/Collections/helpers.php): Failed to open stream: No such file or directory in /home/aliuz/public_html/vendor/composer/autoload_real.php on line 78
+[14-Jul-2022 05:45:19 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/aliuz/public_html/vendor/composer/../laravel/framework/src/Illuminate/Collections/helpers.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/aliuz/public_html/vendor/composer/autoload_real.php:78
+Stack trace:
+#0 /home/aliuz/public_html/vendor/composer/autoload_real.php(61): composerRequire83fd28ec2d0e485dbb5b397be83c74bf()
+#1 /home/aliuz/public_html/vendor/autoload.php(7): ComposerAutoloaderInit83fd28ec2d0e485dbb5b397be83c74bf::getLoader()
+#2 /home/aliuz/public_html/public/index.php(34): require('/home/aliuz/pub...')
+#3 {main}
+  thrown in /home/aliuz/public_html/vendor/composer/autoload_real.php on line 78
+[14-Jul-2022 05:45:19 UTC] PHP Warning:  require(/home/aliuz/public_html/vendor/composer/../laravel/framework/src/Illuminate/Collections/helpers.php): Failed to open stream: No such file or directory in /home/aliuz/public_html/vendor/composer/autoload_real.php on line 78
+[14-Jul-2022 05:45:19 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/aliuz/public_html/vendor/composer/../laravel/framework/src/Illuminate/Collections/helpers.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/aliuz/public_html/vendor/composer/autoload_real.php:78
+Stack trace:
+#0 /home/aliuz/public_html/vendor/composer/autoload_real.php(61): composerRequire83fd28ec2d0e485dbb5b397be83c74bf()
+#1 /home/aliuz/public_html/vendor/autoload.php(7): ComposerAutoloaderInit83fd28ec2d0e485dbb5b397be83c74bf::getLoader()
+#2 /home/aliuz/public_html/public/index.php(34): require('/home/aliuz/pub...')
+#3 {main}
+  thrown in /home/aliuz/public_html/vendor/composer/autoload_real.php on line 78
+[14-Jul-2022 05:45:19 UTC] PHP Warning:  require(/home/aliuz/public_html/vendor/composer/../laravel/framework/src/Illuminate/Collections/helpers.php): Failed to open stream: No such file or directory in /home/aliuz/public_html/vendor/composer/autoload_real.php on line 78
+[14-Jul-2022 05:45:19 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/aliuz/public_html/vendor/composer/../laravel/framework/src/Illuminate/Collections/helpers.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/aliuz/public_html/vendor/composer/autoload_real.php:78
+Stack trace:
+#0 /home/aliuz/public_html/vendor/composer/autoload_real.php(61): composerRequire83fd28ec2d0e485dbb5b397be83c74bf()
+#1 /home/aliuz/public_html/vendor/autoload.php(7): ComposerAutoloaderInit83fd28ec2d0e485dbb5b397be83c74bf::getLoader()
+#2 /home/aliuz/public_html/public/index.php(34): require('/home/aliuz/pub...')
+#3 {main}
+  thrown in /home/aliuz/public_html/vendor/composer/autoload_real.php on line 78
+[14-Jul-2022 05:45:19 UTC] PHP Warning:  require(/home/aliuz/public_html/vendor/composer/../laravel/framework/src/Illuminate/Collections/helpers.php): Failed to open stream: No such file or directory in /home/aliuz/public_html/vendor/composer/autoload_real.php on line 78
+[14-Jul-2022 05:45:19 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/aliuz/public_html/vendor/composer/../laravel/framework/src/Illuminate/Collections/helpers.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/aliuz/public_html/vendor/composer/autoload_real.php:78
+Stack trace:
+#0 /home/aliuz/public_html/vendor/composer/autoload_real.php(61): composerRequire83fd28ec2d0e485dbb5b397be83c74bf()
+#1 /home/aliuz/public_html/vendor/autoload.php(7): ComposerAutoloaderInit83fd28ec2d0e485dbb5b397be83c74bf::getLoader()
+#2 /home/aliuz/public_html/public/index.php(34): require('/home/aliuz/pub...')
+#3 {main}
+  thrown in /home/aliuz/public_html/vendor/composer/autoload_real.php on line 78
+[14-Jul-2022 05:45:19 UTC] PHP Warning:  require(/home/aliuz/public_html/vendor/composer/../laravel/framework/src/Illuminate/Collections/helpers.php): Failed to open stream: No such file or directory in /home/aliuz/public_html/vendor/composer/autoload_real.php on line 78
+[14-Jul-2022 05:45:19 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/aliuz/public_html/vendor/composer/../laravel/framework/src/Illuminate/Collections/helpers.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/aliuz/public_html/vendor/composer/autoload_real.php:78
+Stack trace:
+#0 /home/aliuz/public_html/vendor/composer/autoload_real.php(61): composerRequire83fd28ec2d0e485dbb5b397be83c74bf()
+#1 /home/aliuz/public_html/vendor/autoload.php(7): ComposerAutoloaderInit83fd28ec2d0e485dbb5b397be83c74bf::getLoader()
+#2 /home/aliuz/public_html/public/index.php(34): require('/home/aliuz/pub...')
+#3 {main}
+  thrown in /home/aliuz/public_html/vendor/composer/autoload_real.php on line 78
+[14-Jul-2022 05:45:19 UTC] PHP Warning:  require(/home/aliuz/public_html/vendor/composer/../laravel/framework/src/Illuminate/Collections/helpers.php): Failed to open stream: No such file or directory in /home/aliuz/public_html/vendor/composer/autoload_real.php on line 78
+[14-Jul-2022 05:45:19 UTC] PHP Warning:  require(/home/aliuz/public_html/vendor/composer/../laravel/framework/src/Illuminate/Collections/helpers.php): Failed to open stream: No such file or directory in /home/aliuz/public_html/vendor/composer/autoload_real.php on line 78
+[14-Jul-2022 05:45:19 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/aliuz/public_html/vendor/composer/../laravel/framework/src/Illuminate/Collections/helpers.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/aliuz/public_html/vendor/composer/autoload_real.php:78
+Stack trace:
+#0 /home/aliuz/public_html/vendor/composer/autoload_real.php(61): composerRequire83fd28ec2d0e485dbb5b397be83c74bf()
+#1 /home/aliuz/public_html/vendor/autoload.php(7): ComposerAutoloaderInit83fd28ec2d0e485dbb5b397be83c74bf::getLoader()
+#2 /home/aliuz/public_html/public/index.php(34): require('/home/aliuz/pub...')
+#3 {main}
+  thrown in /home/aliuz/public_html/vendor/composer/autoload_real.php on line 78
+[14-Jul-2022 05:45:19 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/aliuz/public_html/vendor/composer/../laravel/framework/src/Illuminate/Collections/helpers.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/aliuz/public_html/vendor/composer/autoload_real.php:78
+Stack trace:
+#0 /home/aliuz/public_html/vendor/composer/autoload_real.php(61): composerRequire83fd28ec2d0e485dbb5b397be83c74bf()
+#1 /home/aliuz/public_html/vendor/autoload.php(7): ComposerAutoloaderInit83fd28ec2d0e485dbb5b397be83c74bf::getLoader()
+#2 /home/aliuz/public_html/public/index.php(34): require('/home/aliuz/pub...')
+#3 {main}
+  thrown in /home/aliuz/public_html/vendor/composer/autoload_real.php on line 78
+[14-Jul-2022 05:45:19 UTC] PHP Warning:  require(/home/aliuz/public_html/vendor/composer/../laravel/framework/src/Illuminate/Collections/helpers.php): Failed to open stream: No such file or directory in /home/aliuz/public_html/vendor/composer/autoload_real.php on line 78
+[14-Jul-2022 05:45:19 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/aliuz/public_html/vendor/composer/../laravel/framework/src/Illuminate/Collections/helpers.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/aliuz/public_html/vendor/composer/autoload_real.php:78
+Stack trace:
+#0 /home/aliuz/public_html/vendor/composer/autoload_real.php(61): composerRequire83fd28ec2d0e485dbb5b397be83c74bf()
+#1 /home/aliuz/public_html/vendor/autoload.php(7): ComposerAutoloaderInit83fd28ec2d0e485dbb5b397be83c74bf::getLoader()
+#2 /home/aliuz/public_html/public/index.php(34): require('/home/aliuz/pub...')
+#3 {main}
+  thrown in /home/aliuz/public_html/vendor/composer/autoload_real.php on line 78
+[14-Jul-2022 05:45:19 UTC] PHP Warning:  require(/home/aliuz/public_html/vendor/composer/../laravel/framework/src/Illuminate/Collections/helpers.php): Failed to open stream: No such file or directory in /home/aliuz/public_html/vendor/composer/autoload_real.php on line 78
+[14-Jul-2022 05:45:19 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/aliuz/public_html/vendor/composer/../laravel/framework/src/Illuminate/Collections/helpers.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/aliuz/public_html/vendor/composer/autoload_real.php:78
+Stack trace:
+#0 /home/aliuz/public_html/vendor/composer/autoload_real.php(61): composerRequire83fd28ec2d0e485dbb5b397be83c74bf()
+#1 /home/aliuz/public_html/vendor/autoload.php(7): ComposerAutoloaderInit83fd28ec2d0e485dbb5b397be83c74bf::getLoader()
+#2 /home/aliuz/public_html/public/index.php(34): require('/home/aliuz/pub...')
+#3 {main}
+  thrown in /home/aliuz/public_html/vendor/composer/autoload_real.php on line 78
+[14-Jul-2022 10:48:59 Asia/Tashkent] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/aliuz/public_html/vendor/symfony/polyfill-mbstring/Mbstring.php on line 635
+[14-Jul-2022 10:49:01 Asia/Tashkent] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/aliuz/public_html/vendor/symfony/polyfill-mbstring/Mbstring.php on line 635
+[14-Jul-2022 10:49:03 Asia/Tashkent] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/aliuz/public_html/vendor/symfony/polyfill-mbstring/Mbstring.php on line 635
+[14-Jul-2022 10:50:33 Asia/Tashkent] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/aliuz/public_html/vendor/symfony/polyfill-mbstring/Mbstring.php on line 635
+[14-Jul-2022 10:50:37 Asia/Tashkent] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/aliuz/public_html/vendor/symfony/polyfill-mbstring/Mbstring.php on line 635
+[14-Jul-2022 10:50:39 Asia/Tashkent] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/aliuz/public_html/vendor/symfony/polyfill-mbstring/Mbstring.php on line 635
+[14-Jul-2022 10:50:40 Asia/Tashkent] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/aliuz/public_html/vendor/symfony/polyfill-mbstring/Mbstring.php on line 635
+[14-Jul-2022 10:58:30 Asia/Tashkent] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/aliuz/public_html/vendor/symfony/polyfill-mbstring/Mbstring.php on line 635
+[14-Jul-2022 11:33:15 Asia/Tashkent] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/aliuz/public_html/vendor/symfony/polyfill-mbstring/Mbstring.php on line 635
+[14-Jul-2022 11:33:20 Asia/Tashkent] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/aliuz/public_html/vendor/symfony/polyfill-mbstring/Mbstring.php on line 635
+[14-Jul-2022 11:35:06 Asia/Tashkent] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/aliuz/public_html/vendor/symfony/polyfill-mbstring/Mbstring.php on line 635
+[14-Jul-2022 11:36:09 Asia/Tashkent] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/aliuz/public_html/vendor/symfony/polyfill-mbstring/Mbstring.php on line 491
+[14-Jul-2022 11:36:26 Asia/Tashkent] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/aliuz/public_html/vendor/symfony/polyfill-mbstring/Mbstring.php on line 635
+[14-Jul-2022 11:36:30 Asia/Tashkent] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/aliuz/public_html/vendor/symfony/polyfill-mbstring/Mbstring.php on line 635
+[14-Jul-2022 11:36:46 Asia/Tashkent] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/aliuz/public_html/vendor/symfony/polyfill-mbstring/Mbstring.php on line 635
+[14-Jul-2022 11:36:57 Asia/Tashkent] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/aliuz/public_html/vendor/symfony/polyfill-mbstring/Mbstring.php on line 635
+[14-Jul-2022 11:37:04 Asia/Tashkent] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/aliuz/public_html/vendor/symfony/polyfill-mbstring/Mbstring.php on line 635
+[14-Jul-2022 11:37:39 Asia/Tashkent] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/aliuz/public_html/vendor/symfony/polyfill-mbstring/Mbstring.php on line 635
+[14-Jul-2022 11:38:31 Asia/Tashkent] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/aliuz/public_html/vendor/symfony/polyfill-mbstring/Mbstring.php on line 635
+[14-Jul-2022 11:42:18 Asia/Tashkent] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/aliuz/public_html/vendor/symfony/polyfill-mbstring/Mbstring.php on line 635
+[14-Jul-2022 11:42:20 Asia/Tashkent] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/aliuz/public_html/vendor/symfony/polyfill-mbstring/Mbstring.php on line 635
+[14-Jul-2022 13:02:28 Asia/Tashkent] PHP Fatal error:  Cannot declare class App\Http\Controllers\Admin\Advertisement because the name is already in use in /home/aliuz/public_html/app/Http/Controllers/Admin/AdvertisementController.php on line 9
+[14-Jul-2022 13:02:36 Asia/Tashkent] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/aliuz/public_html/vendor/symfony/polyfill-mbstring/Mbstring.php on line 635
+[14-Jul-2022 13:02:45 Asia/Tashkent] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/aliuz/public_html/vendor/symfony/polyfill-mbstring/Mbstring.php on line 635
+[14-Jul-2022 13:03:31 Asia/Tashkent] PHP Fatal error:  Cannot declare class App\Http\Controllers\Admin\Advertisement because the name is already in use in /home/aliuz/public_html/app/Http/Controllers/Admin/AdvertisementController.php on line 9
+[14-Jul-2022 13:06:49 Asia/Tashkent] PHP Fatal error:  Cannot declare class App\Http\Controllers\Admin\Advertisement because the name is already in use in /home/aliuz/public_html/app/Http/Controllers/Admin/AdvertisementController.php on line 9
+[14-Jul-2022 13:07:06 Asia/Tashkent] PHP Fatal error:  Cannot declare class App\Http\Controllers\Admin\Advertisement because the name is already in use in /home/aliuz/public_html/app/Http/Controllers/Admin/AdvertisementController.php on line 9
+[19-Jul-2022 10:26:05 Asia/Tashkent] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/aliuz/public_html/vendor/symfony/polyfill-mbstring/Mbstring.php on line 635
+[19-Jul-2022 10:29:55 Asia/Tashkent] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/aliuz/public_html/vendor/symfony/polyfill-mbstring/Mbstring.php on line 635
+[19-Jul-2022 10:31:22 Asia/Tashkent] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/aliuz/public_html/vendor/symfony/polyfill-mbstring/Mbstring.php on line 635
+[19-Jul-2022 10:31:41 Asia/Tashkent] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/aliuz/public_html/vendor/symfony/polyfill-mbstring/Mbstring.php on line 635
+[19-Jul-2022 10:32:41 Asia/Tashkent] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/aliuz/public_html/vendor/symfony/polyfill-mbstring/Mbstring.php on line 635
+[19-Jul-2022 10:33:45 Asia/Tashkent] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/aliuz/public_html/vendor/symfony/polyfill-mbstring/Mbstring.php on line 635
+[19-Jul-2022 10:33:54 Asia/Tashkent] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/aliuz/public_html/vendor/symfony/polyfill-mbstring/Mbstring.php on line 635
+[19-Jul-2022 10:34:47 Asia/Tashkent] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/aliuz/public_html/vendor/symfony/polyfill-mbstring/Mbstring.php on line 635
+[19-Jul-2022 10:35:12 Asia/Tashkent] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/aliuz/public_html/vendor/symfony/polyfill-mbstring/Mbstring.php on line 635
+[19-Jul-2022 10:36:05 Asia/Tashkent] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/aliuz/public_html/vendor/symfony/polyfill-mbstring/Mbstring.php on line 635
+[19-Jul-2022 11:00:25 Asia/Tashkent] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/aliuz/public_html/vendor/symfony/polyfill-mbstring/Mbstring.php on line 635
+[19-Jul-2022 11:52:22 Asia/Tashkent] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/aliuz/public_html/vendor/symfony/polyfill-mbstring/Mbstring.php on line 491
+[19-Jul-2022 11:52:28 Asia/Tashkent] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/aliuz/public_html/vendor/symfony/polyfill-mbstring/Mbstring.php on line 635
+[19-Jul-2022 12:01:25 Asia/Tashkent] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/aliuz/public_html/vendor/symfony/polyfill-mbstring/Mbstring.php on line 635
+[19-Jul-2022 12:01:40 Asia/Tashkent] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/aliuz/public_html/vendor/symfony/polyfill-mbstring/Mbstring.php on line 635
+[19-Jul-2022 12:03:15 Asia/Tashkent] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/aliuz/public_html/vendor/symfony/polyfill-mbstring/Mbstring.php on line 635
+[19-Jul-2022 12:03:20 Asia/Tashkent] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/aliuz/public_html/vendor/symfony/polyfill-mbstring/Mbstring.php on line 635
+[19-Jul-2022 12:05:04 Asia/Tashkent] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/aliuz/public_html/vendor/symfony/polyfill-mbstring/Mbstring.php on line 635
+[19-Jul-2022 12:05:05 Asia/Tashkent] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/aliuz/public_html/vendor/symfony/polyfill-mbstring/Mbstring.php on line 635
+[19-Jul-2022 12:05:09 Asia/Tashkent] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/aliuz/public_html/vendor/symfony/polyfill-mbstring/Mbstring.php on line 491
+[19-Jul-2022 12:06:37 Asia/Tashkent] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/aliuz/public_html/vendor/symfony/polyfill-mbstring/Mbstring.php on line 635
+[19-Jul-2022 12:06:40 Asia/Tashkent] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/aliuz/public_html/vendor/symfony/polyfill-mbstring/Mbstring.php on line 635
+[19-Jul-2022 12:06:43 Asia/Tashkent] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/aliuz/public_html/vendor/symfony/polyfill-mbstring/Mbstring.php on line 635
+[19-Jul-2022 12:08:07 Asia/Tashkent] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/aliuz/public_html/vendor/symfony/polyfill-mbstring/Mbstring.php on line 635
+[19-Jul-2022 12:08:19 Asia/Tashkent] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/aliuz/public_html/vendor/symfony/polyfill-mbstring/Mbstring.php on line 635
+[19-Jul-2022 13:21:51 Asia/Tashkent] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/aliuz/public_html/vendor/symfony/polyfill-mbstring/Mbstring.php on line 635
+[19-Jul-2022 13:21:59 Asia/Tashkent] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/aliuz/public_html/vendor/symfony/polyfill-mbstring/Mbstring.php on line 635
+[21-Jul-2022 09:42:48 Asia/Tashkent] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/aliuz/public_html/vendor/symfony/polyfill-mbstring/Mbstring.php on line 635
+[21-Jul-2022 09:43:01 Asia/Tashkent] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/aliuz/public_html/vendor/symfony/polyfill-mbstring/Mbstring.php on line 635
+[21-Jul-2022 09:43:12 Asia/Tashkent] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/aliuz/public_html/vendor/symfony/polyfill-mbstring/Mbstring.php on line 635
+[21-Jul-2022 09:43:31 Asia/Tashkent] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/aliuz/public_html/vendor/symfony/polyfill-mbstring/Mbstring.php on line 635
+[21-Jul-2022 09:44:26 Asia/Tashkent] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/aliuz/public_html/vendor/symfony/polyfill-mbstring/Mbstring.php on line 635
+[21-Jul-2022 09:44:37 Asia/Tashkent] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/aliuz/public_html/vendor/symfony/polyfill-mbstring/Mbstring.php on line 635
+[21-Jul-2022 09:51:42 Asia/Tashkent] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/aliuz/public_html/vendor/symfony/polyfill-mbstring/Mbstring.php on line 635
+[21-Jul-2022 09:52:31 Asia/Tashkent] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/aliuz/public_html/vendor/symfony/polyfill-mbstring/Mbstring.php on line 635
+[21-Jul-2022 09:54:17 Asia/Tashkent] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/aliuz/public_html/vendor/symfony/polyfill-mbstring/Mbstring.php on line 635
+[21-Jul-2022 09:55:40 Asia/Tashkent] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/aliuz/public_html/vendor/symfony/polyfill-mbstring/Mbstring.php on line 635
+[21-Jul-2022 09:56:06 Asia/Tashkent] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/aliuz/public_html/vendor/symfony/polyfill-mbstring/Mbstring.php on line 635
+[21-Jul-2022 10:02:24 Asia/Tashkent] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/aliuz/public_html/vendor/symfony/polyfill-mbstring/Mbstring.php on line 635
+[21-Jul-2022 10:04:34 Asia/Tashkent] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/aliuz/public_html/vendor/symfony/polyfill-mbstring/Mbstring.php on line 635
+[21-Jul-2022 10:05:01 Asia/Tashkent] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/aliuz/public_html/vendor/symfony/polyfill-mbstring/Mbstring.php on line 635
+[21-Jul-2022 10:11:01 Asia/Tashkent] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/aliuz/public_html/vendor/symfony/polyfill-mbstring/Mbstring.php on line 635
+[21-Jul-2022 10:11:39 Asia/Tashkent] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/aliuz/public_html/vendor/symfony/polyfill-mbstring/Mbstring.php on line 635
+[21-Jul-2022 10:11:45 Asia/Tashkent] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/aliuz/public_html/vendor/symfony/polyfill-mbstring/Mbstring.php on line 635
+[21-Jul-2022 10:12:12 Asia/Tashkent] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/aliuz/public_html/vendor/symfony/polyfill-mbstring/Mbstring.php on line 635
+[21-Jul-2022 10:14:17 Asia/Tashkent] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/aliuz/public_html/vendor/symfony/polyfill-mbstring/Mbstring.php on line 635
+[21-Jul-2022 10:14:20 Asia/Tashkent] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/aliuz/public_html/vendor/symfony/polyfill-mbstring/Mbstring.php on line 635
+[21-Jul-2022 10:14:23 Asia/Tashkent] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/aliuz/public_html/vendor/symfony/polyfill-mbstring/Mbstring.php on line 635
+[21-Jul-2022 10:14:31 Asia/Tashkent] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/aliuz/public_html/vendor/symfony/polyfill-mbstring/Mbstring.php on line 635
+[21-Jul-2022 10:14:33 Asia/Tashkent] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/aliuz/public_html/vendor/symfony/polyfill-mbstring/Mbstring.php on line 635
+[21-Jul-2022 10:20:18 Asia/Tashkent] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/aliuz/public_html/vendor/symfony/polyfill-mbstring/Mbstring.php on line 635
+[21-Jul-2022 10:36:52 Asia/Tashkent] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/aliuz/public_html/vendor/symfony/polyfill-mbstring/Mbstring.php on line 635
+[21-Jul-2022 10:37:32 Asia/Tashkent] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/aliuz/public_html/vendor/symfony/polyfill-mbstring/Mbstring.php on line 635
+[21-Jul-2022 10:37:43 Asia/Tashkent] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/aliuz/public_html/vendor/symfony/polyfill-mbstring/Mbstring.php on line 635
+[21-Jul-2022 10:38:12 Asia/Tashkent] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/aliuz/public_html/vendor/symfony/polyfill-mbstring/Mbstring.php on line 635
+[21-Jul-2022 10:38:14 Asia/Tashkent] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/aliuz/public_html/vendor/symfony/polyfill-mbstring/Mbstring.php on line 635
+[21-Jul-2022 10:38:18 Asia/Tashkent] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/aliuz/public_html/vendor/symfony/polyfill-mbstring/Mbstring.php on line 635
+[21-Jul-2022 10:38:20 Asia/Tashkent] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/aliuz/public_html/vendor/symfony/polyfill-mbstring/Mbstring.php on line 491
+[21-Jul-2022 10:38:21 Asia/Tashkent] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/aliuz/public_html/vendor/symfony/polyfill-mbstring/Mbstring.php on line 635
+[21-Jul-2022 10:40:15 Asia/Tashkent] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/aliuz/public_html/vendor/symfony/polyfill-mbstring/Mbstring.php on line 635
+[21-Jul-2022 10:40:43 Asia/Tashkent] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/aliuz/public_html/vendor/symfony/polyfill-mbstring/Mbstring.php on line 635
+[21-Jul-2022 10:40:47 Asia/Tashkent] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/aliuz/public_html/vendor/symfony/polyfill-mbstring/Mbstring.php on line 635
+[21-Jul-2022 10:40:56 Asia/Tashkent] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/aliuz/public_html/vendor/symfony/polyfill-mbstring/Mbstring.php on line 635
+[21-Jul-2022 10:48:28 Asia/Tashkent] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/aliuz/public_html/vendor/symfony/polyfill-mbstring/Mbstring.php on line 635
+[21-Jul-2022 10:50:02 Asia/Tashkent] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/aliuz/public_html/vendor/symfony/polyfill-mbstring/Mbstring.php on line 635
+[21-Jul-2022 10:50:16 Asia/Tashkent] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/aliuz/public_html/vendor/symfony/polyfill-mbstring/Mbstring.php on line 635
+[21-Jul-2022 10:50:25 Asia/Tashkent] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/aliuz/public_html/vendor/symfony/polyfill-mbstring/Mbstring.php on line 635
+[21-Jul-2022 10:50:37 Asia/Tashkent] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/aliuz/public_html/vendor/symfony/polyfill-mbstring/Mbstring.php on line 491
+[21-Jul-2022 10:51:20 Asia/Tashkent] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/aliuz/public_html/vendor/symfony/polyfill-mbstring/Mbstring.php on line 635
+[21-Jul-2022 10:51:21 Asia/Tashkent] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/aliuz/public_html/vendor/symfony/polyfill-mbstring/Mbstring.php on line 635
+[21-Jul-2022 10:51:21 Asia/Tashkent] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/aliuz/public_html/vendor/symfony/polyfill-mbstring/Mbstring.php on line 635
+[21-Jul-2022 10:51:21 Asia/Tashkent] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/aliuz/public_html/vendor/symfony/polyfill-mbstring/Mbstring.php on line 635
+[21-Jul-2022 10:51:22 Asia/Tashkent] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/aliuz/public_html/vendor/symfony/polyfill-mbstring/Mbstring.php on line 635
+[21-Jul-2022 10:51:22 Asia/Tashkent] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/aliuz/public_html/vendor/symfony/polyfill-mbstring/Mbstring.php on line 635
+[21-Jul-2022 10:51:23 Asia/Tashkent] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/aliuz/public_html/vendor/symfony/polyfill-mbstring/Mbstring.php on line 635
+[21-Jul-2022 10:54:10 Asia/Tashkent] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/aliuz/public_html/vendor/symfony/polyfill-mbstring/Mbstring.php on line 635
+[21-Jul-2022 11:03:29 Asia/Tashkent] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/aliuz/public_html/vendor/symfony/polyfill-mbstring/Mbstring.php on line 635
+[21-Jul-2022 11:03:34 Asia/Tashkent] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/aliuz/public_html/vendor/symfony/polyfill-mbstring/Mbstring.php on line 635
+[21-Jul-2022 14:29:38 Asia/Tashkent] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/aliuz/public_html/vendor/symfony/polyfill-mbstring/Mbstring.php on line 635
+[21-Jul-2022 14:29:45 Asia/Tashkent] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/aliuz/public_html/vendor/symfony/polyfill-mbstring/Mbstring.php on line 635
+[21-Jul-2022 14:29:48 Asia/Tashkent] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/aliuz/public_html/vendor/symfony/polyfill-mbstring/Mbstring.php on line 635
+[21-Jul-2022 14:29:51 Asia/Tashkent] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/aliuz/public_html/vendor/symfony/polyfill-mbstring/Mbstring.php on line 635
+[21-Jul-2022 14:29:58 Asia/Tashkent] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/aliuz/public_html/vendor/symfony/polyfill-mbstring/Mbstring.php on line 635
+[21-Jul-2022 14:39:12 Asia/Tashkent] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/aliuz/public_html/vendor/symfony/polyfill-mbstring/Mbstring.php on line 635
+[21-Jul-2022 14:39:14 Asia/Tashkent] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/aliuz/public_html/vendor/symfony/polyfill-mbstring/Mbstring.php on line 635
+[21-Jul-2022 14:39:17 Asia/Tashkent] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/aliuz/public_html/vendor/symfony/polyfill-mbstring/Mbstring.php on line 635
+[21-Jul-2022 14:40:10 Asia/Tashkent] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/aliuz/public_html/vendor/symfony/polyfill-mbstring/Mbstring.php on line 635
+[21-Jul-2022 14:41:53 Asia/Tashkent] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/aliuz/public_html/vendor/symfony/polyfill-mbstring/Mbstring.php on line 491
+[21-Jul-2022 14:42:04 Asia/Tashkent] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/aliuz/public_html/vendor/symfony/polyfill-mbstring/Mbstring.php on line 491
+[28-Jul-2022 05:51:32 UTC] PHP Notice:  require(): Read of 657699 bytes failed with errno=14 Bad address in /home/aliuz/public_html/vendor/composer/autoload_real.php on line 33
+[28-Jul-2022 05:51:55 UTC] PHP Warning:  include(): Failed opening '/home/aliuz/public_html/vendor/composer/../symfony/polyfill-mbstring/Mbstring.php' for inclusion (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/aliuz/public_html/vendor/composer/ClassLoader.php on line 571
+[28-Jul-2022 05:51:55 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Polyfill\Mbstring\Mbstring" not found in /home/aliuz/public_html/vendor/symfony/polyfill-mbstring/bootstrap80.php:60
+Stack trace:
+#0 /home/aliuz/public_html/vendor/laravel/framework/src/Illuminate/Support/Str.php(197): mb_strpos()
+#1 /home/aliuz/public_html/vendor/laravel/framework/src/Illuminate/Http/Concerns/InteractsWithContentTypes.php(16): Illuminate\Support\Str::contains()
+#2 /home/aliuz/public_html/vendor/laravel/framework/src/Illuminate/Http/Request.php(401): Illuminate\Http\Request->isJson()
+#3 /home/aliuz/public_html/vendor/laravel/framework/src/Illuminate/Http/Request.php(465): Illuminate\Http\Request->getInputSource()
+#4 /home/aliuz/public_html/vendor/laravel/framework/src/Illuminate/Http/Request.php(64): Illuminate\Http\Request::createFromBase()
+#5 /home/aliuz/public_html/public/index.php(52): Illuminate\Http\Request::capture()
+#6 {main}
+  thrown in /home/aliuz/public_html/vendor/symfony/polyfill-mbstring/bootstrap80.php on line 60
+[28-Jul-2022 10:51:55 Asia/Tashkent] PHP Fatal error:  Uncaught ErrorException: include(): Read of 824 bytes failed with errno=12 Cannot allocate memory in /home/aliuz/public_html/vendor/composer/ClassLoader.php:571
+Stack trace:
+#0 /home/aliuz/public_html/vendor/composer/ClassLoader.php(571): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError()
+#1 /home/aliuz/public_html/vendor/composer/ClassLoader.php(571): include()
+#2 /home/aliuz/public_html/vendor/composer/ClassLoader.php(428): Composer\Autoload\includeFile()
+#3 [internal function]: Composer\Autoload\ClassLoader->loadClass()
+#4 /home/aliuz/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(877): ReflectionClass->__construct()
+#5 /home/aliuz/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(758): Illuminate\Container\Container->build()
+#6 /home/aliuz/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(851): Illuminate\Container\Container->resolve()
+#7 /home/aliuz/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(296): Illuminate\Foundation\Application->resolve()
+#8 /home/aliuz/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(873): Illuminate\Container\Container->Illuminate\Container\{closure}()
+#9 /home/aliuz/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(758): Illuminate\Container\Container->build()
+#10 /home/aliuz/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(851): Illuminate\Container\Container->resolve()
+#11 /home/aliuz/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(694): Illuminate\Foundation\Application->resolve()
+#12 /home/aliuz/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(836): Illuminate\Container\Container->make()
+#13 /home/aliuz/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(254): Illuminate\Foundation\Application->make()
+#14 /home/aliuz/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(196): Illuminate\Foundation\Bootstrap\HandleExceptions->getExceptionHandler()
+#15 /home/aliuz/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(173): Illuminate\Foundation\Bootstrap\HandleExceptions->renderHttpResponse()
+#16 [internal function]: Illuminate\Foundation\Bootstrap\HandleExceptions->handleException()
+#17 {main}
+  thrown in /home/aliuz/public_html/vendor/composer/ClassLoader.php on line 571
+[28-Jul-2022 10:51:55 Asia/Tashkent] PHP Fatal error:  During class fetch: Uncaught ErrorException: include(): Read of 1268 bytes failed with errno=12 Cannot allocate memory in /home/aliuz/public_html/vendor/composer/ClassLoader.php:571
+Stack trace:
+#0 /home/aliuz/public_html/vendor/composer/ClassLoader.php(571): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError()
+#1 /home/aliuz/public_html/vendor/composer/ClassLoader.php(571): include()
+#2 /home/aliuz/public_html/vendor/composer/ClassLoader.php(428): Composer\Autoload\includeFile()
+#3 /home/aliuz/public_html/vendor/laravel/framework/src/Illuminate/View/Compilers/BladeCompiler.php(15): Composer\Autoload\ClassLoader->loadClass()
+#4 /home/aliuz/public_html/vendor/composer/ClassLoader.php(571): include('/home/aliuz/pub...')
+#5 /home/aliuz/public_html/vendor/composer/ClassLoader.php(428): Composer\Autoload\includeFile()
+#6 /home/aliuz/public_html/vendor/laravel/framework/src/Illuminate/View/ViewServiceProvider.php(88): Composer\Autoload\ClassLoader->loadClass()
+#7 /home/aliuz/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(873): Illuminate\View\ViewServiceProvider->Illuminate\View\{closure}()
+#8 /home/aliuz/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(758): Illuminate\Container\Container->build()
+#9 /home/aliuz/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(851): Illuminate\Container\Container->resolve()
+#10 /home/aliuz/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(694): Illuminate\Foundation\Application->resolve()
+#11 /home/aliuz/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(836): Illuminate\Container\Container->make()
+#12 /home/aliuz/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(1419): Illuminate\Foundation\Application->make()
+#13 /home/aliuz/public_html/vendor/laravel/framework/src/Illuminate/View/ViewServiceProvider.php(150): Illuminate\Container\Container->offsetGet()
+#14 [internal function]: Illuminate\View\ViewServiceProvider->Illuminate\View\{closure}()
+#15 /home/aliuz/public_html/vendor/laravel/framework/src/Illuminate/View/Engines/EngineResolver.php(55): call_user_func()
+#16 /home/aliuz/public_html/vendor/facade/ignition/src/IgnitionServiceProvider.php(467): Illuminate\View\Engines\EngineResolver->resolve()
+#17 /home/aliuz/public_html/vendor/facade/ignition/src/IgnitionServiceProvider.php(158): Facade\Ignition\IgnitionServiceProvider->hasCustomViewEnginesRegistered()
+#18 /home/aliuz/public_html/vendor/facade/ignition/src/IgnitionServiceProvider.php(101): Facade\Ignition\IgnitionServiceProvider->registerViewEngines()
+#19 /home/aliuz/public_html/vendor/laravel/framework/src/Illuminate/Container/BoundMethod.php(36): Facade\Ignition\IgnitionServiceProvider->boot()
+#20 /home/aliuz/public_html/vendor/laravel/framework/src/Illuminate/Container/Util.php(40): Illuminate\Container\BoundMethod::Illuminate\Container\{closure}()
+#21 /home/aliuz/public_html/vendor/laravel/framework/src/Illuminate/Container/BoundMethod.php(93): Illuminate\Container\Util::unwrapIfClosure()
+#22 /home/aliuz/public_html/vendor/laravel/framework/src/Illuminate/Container/BoundMethod.php(37): Illuminate\Container\BoundMethod::callBoundMethod()
+#23 /home/aliuz/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(653): Illuminate\Container\BoundMethod::call()
+#24 /home/aliuz/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(924): Illuminate\Container\Container->call()
+#25 /home/aliuz/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(905): Illuminate\Foundation\Application->bootProvider()
+#26 [internal function]: Illuminate\Foundation\Application->Illuminate\Foundation\{closure}()
+#27 /home/aliuz/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(906): array_walk()
+#28 /home/aliuz/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/BootProviders.php(17): Illuminate\Foundation\Application->boot()
+#29 /home/aliuz/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(237): Illuminate\Foundation\Bootstrap\BootProviders->bootstrap()
+#30 /home/aliuz/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(153): Illuminate\Foundation\Application->bootstrapWith()
+#31 /home/aliuz/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(137): Illuminate\Foundation\Http\Kernel->bootstrap()
+#32 /home/aliuz/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(111): Illuminate\Foundation\Http\Kernel->sendRequestThroughRouter()
+#33 /home/aliuz/public_html/public/index.php(52): Illuminate\Foundation\Http\Kernel->handle()
+#34 {main} in /home/aliuz/public_html/vendor/laravel/framework/src/Illuminate/View/Compilers/BladeCompiler.php on line 15
+[29-Jul-2022 11:43:43 Asia/Tashkent] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/aliuz/public_html/vendor/symfony/polyfill-mbstring/Mbstring.php on line 635
+[29-Jul-2022 11:43:53 Asia/Tashkent] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/aliuz/public_html/vendor/symfony/polyfill-mbstring/Mbstring.php on line 635
+[29-Jul-2022 11:44:39 Asia/Tashkent] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/aliuz/public_html/vendor/symfony/polyfill-mbstring/Mbstring.php on line 635
+[29-Jul-2022 11:44:53 Asia/Tashkent] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/aliuz/public_html/vendor/symfony/polyfill-mbstring/Mbstring.php on line 635
+[29-Jul-2022 11:44:59 Asia/Tashkent] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/aliuz/public_html/vendor/symfony/polyfill-mbstring/Mbstring.php on line 635
+[30-Jul-2022 13:45:18 Asia/Tashkent] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/aliuz/public_html/vendor/symfony/polyfill-mbstring/Mbstring.php on line 635
+[30-Jul-2022 13:45:29 Asia/Tashkent] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/aliuz/public_html/vendor/symfony/polyfill-mbstring/Mbstring.php on line 635
+[30-Jul-2022 13:45:36 Asia/Tashkent] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/aliuz/public_html/vendor/symfony/polyfill-mbstring/Mbstring.php on line 635
+[30-Jul-2022 13:46:36 Asia/Tashkent] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/aliuz/public_html/vendor/symfony/polyfill-mbstring/Mbstring.php on line 635
+[30-Jul-2022 13:47:18 Asia/Tashkent] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/aliuz/public_html/vendor/symfony/polyfill-mbstring/Mbstring.php on line 635
+[30-Jul-2022 14:38:39 Asia/Tashkent] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/aliuz/public_html/vendor/symfony/polyfill-mbstring/Mbstring.php on line 635
+[30-Jul-2022 14:39:20 Asia/Tashkent] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/aliuz/public_html/vendor/symfony/polyfill-mbstring/Mbstring.php on line 635
+[30-Jul-2022 14:39:25 Asia/Tashkent] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/aliuz/public_html/vendor/symfony/polyfill-mbstring/Mbstring.php on line 635
+[30-Jul-2022 14:39:45 Asia/Tashkent] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/aliuz/public_html/vendor/symfony/polyfill-mbstring/Mbstring.php on line 635
+[30-Jul-2022 14:39:59 Asia/Tashkent] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/aliuz/public_html/vendor/symfony/polyfill-mbstring/Mbstring.php on line 635
+[30-Jul-2022 14:40:00 Asia/Tashkent] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/aliuz/public_html/vendor/symfony/polyfill-mbstring/Mbstring.php on line 635
+[30-Jul-2022 14:40:02 Asia/Tashkent] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/aliuz/public_html/vendor/symfony/polyfill-mbstring/Mbstring.php on line 635
+[01-Aug-2022 16:27:22 Asia/Tashkent] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/aliuz/public_html/vendor/symfony/polyfill-mbstring/Mbstring.php on line 635
+[01-Aug-2022 16:27:27 Asia/Tashkent] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/aliuz/public_html/vendor/symfony/polyfill-mbstring/Mbstring.php on line 635
+[01-Aug-2022 16:48:19 Asia/Tashkent] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/aliuz/public_html/vendor/symfony/polyfill-mbstring/Mbstring.php on line 635
+[01-Aug-2022 16:48:25 Asia/Tashkent] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/aliuz/public_html/vendor/symfony/polyfill-mbstring/Mbstring.php on line 635
+[01-Aug-2022 16:49:39 Asia/Tashkent] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/aliuz/public_html/vendor/symfony/polyfill-mbstring/Mbstring.php on line 635
+[01-Aug-2022 16:49:58 Asia/Tashkent] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/aliuz/public_html/vendor/symfony/polyfill-mbstring/Mbstring.php on line 635
+[01-Aug-2022 16:50:00 Asia/Tashkent] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/aliuz/public_html/vendor/symfony/polyfill-mbstring/Mbstring.php on line 635
+[01-Aug-2022 16:50:21 Asia/Tashkent] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/aliuz/public_html/vendor/symfony/polyfill-mbstring/Mbstring.php on line 635
+[02-Aug-2022 09:10:29 Asia/Tashkent] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/aliuz/public_html/vendor/symfony/polyfill-mbstring/Mbstring.php on line 635
+[02-Aug-2022 09:11:16 Asia/Tashkent] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/aliuz/public_html/vendor/symfony/polyfill-mbstring/Mbstring.php on line 635
+[02-Aug-2022 09:11:34 Asia/Tashkent] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/aliuz/public_html/vendor/symfony/polyfill-mbstring/Mbstring.php on line 635

@@ -1,0 +1,11 @@
+.main-content {
+    padding-left: 140px !important;
+    padding-right: 15px !important;
+    padding-top: 130px !important;
+    width: 100%;
+    position: relative;
+}
+
+.section>*:first-child {
+    margin-top: -90px !important;
+}

@@ -1,0 +1,23 @@
+<?php
+
+namespace App\Http\Controllers\Api;
+
+use Illuminate\Http\Request;
+use App\Helpers\UserSystemInfoHelper;
+use App\Http\Controllers\Controller;
+
+class UserSystemInfoController extends Controller
+{
+  function getusersysteminfo()
+  {
+  dd(true);
+    $getip = UserSystemInfoHelper::get_ip();
+    $getbrowser = UserSystemInfoHelper::get_browsers();
+    $getdevice = UserSystemInfoHelper::get_device();
+    $getos = UserSystemInfoHelper::get_os();
+
+    echo "<center>$getip <br> $getdevice <br> $getbrowser <br> $getos</center>";
+  }
+}
+
+?>
